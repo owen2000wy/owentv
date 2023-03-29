@@ -189,10 +189,10 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 网络-萤火虫网络电台,http://live.fmyhc.com:8888/yhc_fm
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 新加台测试中,#genre#
-中学生,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
-环球奇观,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226029/index.m3u8
+中学生,http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?&encrypt=1
+环球奇观,http://lu1.cc/itv/php/gudou.php?id=hqqg
 中国交通,https://tv.lanjingfm.com/cctbn/heibei.m3u8
 彩蛋-猫和老鼠直播间3,http://akm-tct.douyucdn.cn/live/7888428rdI6bn5XF.m3u8
 凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-农林卫视,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225521/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
