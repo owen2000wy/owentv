@@ -211,7 +211,7 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="境外" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,农林卫视
-http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225521/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1,翡翠台
 http://lu1.cc/itv/php/gudou.php?id=fct
 #EXTINF:-1,明珠台
@@ -296,9 +296,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1,中央新影-老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1,中央新影-中学生
-http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
+http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?&encrypt=1
 #EXTINF:-1,环球奇观
-http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226029/index.m3u8
+http://lu1.cc/itv/php/gudou.php?id=hqqg
 
 #EXTINF:-1,彩蛋-猫和老鼠直播间1
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
