@@ -109,7 +109,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
-摄影,http://lu1.cc/itv/php/yqgd.php?id=sypd
+摄影,http://113.207.84.197:8090/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
 书画,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 国学,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r4/ocn/shuhua/600/index.m3u8?ProgramID=&encrypt=
 天元围棋,http://lu1.cc/itv/php/gehua.php?id=tywq2
