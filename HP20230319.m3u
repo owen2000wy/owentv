@@ -390,6 +390,6 @@ http://live.xmcdn.com/live/964/64.m3u8
 http://ls.qingting.fm/live/2507637.m3u8
 
 #EXTINF:-1,radio=true,网络-萤火虫网络电台
-http://live.fmyhc.com:8888/yhc_fm
+http://211.149.226.193:8066/1022.mp3
 #EXTINF:-1,radio=true,网络-500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64

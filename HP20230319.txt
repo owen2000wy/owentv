@@ -186,7 +186,7 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 北京-北京好音乐 FM95.9,http://live.xmcdn.com/live/964/64.m3u8
 北京-北京阳光调频 FM98.6,http://ls.qingting.fm/live/2507637.m3u8
 网络广播,#genre#
-网络-萤火虫网络电台,http://live.fmyhc.com:8888/yhc_fm
+网络-萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 新加台测试中,#genre#
 中学生,http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?&encrypt=1
