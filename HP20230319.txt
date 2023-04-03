@@ -4,7 +4,7 @@ CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
 CCTV3,http://117.169.121.162:6610/PLTV/88888910/224/3221225647/index.m3u8
 CCTV4,http://117.169.121.162:6610/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4欧洲,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV4美洲,http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
+CCTV4美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 CCTV5,http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
 CCTV6,http://117.169.121.162:6610/PLTV/88888910/224/3221225650/index.m3u8
@@ -27,18 +27,18 @@ CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 中国教育3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 中国教育4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 中央电视台付费频道,#genre#
-CCTV 第一剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-CCTV 风云剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-CCTV 怀旧剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV 世界地理HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-CCTV 风云音乐HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CCTV 兵器科技HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV 风云足球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV 第一剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8
+CCTV 风云剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513603.m3u8
+CCTV 怀旧剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012511203.m3u8
+CCTV 世界地理HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
+CCTV 风云音乐HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514103.m3u8
+CCTV 兵器科技HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513403.m3u8
+CCTV 风云足球HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514203.m3u8
 CCTV 高尔夫网球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV 女性时尚HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-CCTV 央视文化精品HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-CCTV 央视台球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-CCTV 电视指南HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV 女性时尚HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513903.m3u8
+CCTV 央视文化精品HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513803.m3u8
+CCTV 央视台球HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
+CCTV 电视指南HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514003.m3u8
 CCTV 中视购物,http://221.179.217.76/PLTV/88888888/224/3221226385/1.m3u8?_=1679967855495&time=1679967875546
 CCTV 卫生健康HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513503.m3u8
 4k测试,#genre#
@@ -91,7 +91,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 甘肃卫视,https://live.v1.mk/api/ghyx.php?id=GanSuHD_2000
 宁夏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
 青海卫视,https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏卫视,https://tv.vtibet.cn/live/fvu63z5JqH7P3.m3u8
 新疆卫视,https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -108,10 +108,10 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 中央娱乐台,#genre#
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
-CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
+CHC动作电影,http://lu1.cc/itv/php/as.php?id=chcdzdy
 摄影,http://113.207.84.197:8090/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
 书画,http://211.103.180.178:8234/live_hls/hdmi.m3u8
-国学,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r4/ocn/shuhua/600/index.m3u8?ProgramID=&encrypt=
+国学,http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 天元围棋,http://lu1.cc/itv/php/gehua.php?id=tywq2
 早期教育,http://lu1.cc/itv/php/gehua.php?id=zqjy2
 靓妆,http://117.169.120.244:8080/wh7f454c46tw1071137549_-89956804/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225509/2/01.m3u8?fmt=ts2hls,23,01.m3u8,0,2744,0,0&
@@ -126,7 +126,6 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000/mnf.m3u8
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
-全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000/mnf.m3u8
 新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000/mnf.m3u8
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000/mnf.m3u8
 茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000/mnf.m3u8
@@ -189,10 +188,11 @@ CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 网络-萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 新加台测试中,#genre#
-中学生,http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?&encrypt=1
+中学生,http://113.207.84.197:8090/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
 环球奇观,http://lu1.cc/itv/php/gudou.php?id=hqqg
 中国交通,https://tv.lanjingfm.com/cctbn/heibei.m3u8
 彩蛋-猫和老鼠直播间3,http://akm-tct.douyucdn.cn/live/7888428rdI6bn5XF.m3u8
 凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+四海钓鱼,http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=

@@ -11,7 +11,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="爱尚源",CCTV4欧洲
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,CCTV4美洲
-http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="南昌移动",CCTV5
 http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="南昌移动",CCTV5+
@@ -57,29 +57,29 @@ http://lu1.cc/itv/php/gudou.php?id=zgtq
 https://tv.lanjingfm.com/cctbn/heibei.m3u8
 
 #EXTINF:-1,CCTV 第一剧场HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8
 #EXTINF:-1,CCTV 风云剧场HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513603.m3u8
 #EXTINF:-1,CCTV 怀旧剧场HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012511203.m3u8
 #EXTINF:-1,CCTV 世界地理HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 #EXTINF:-1,CCTV 风云音乐HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514103.m3u8
 #EXTINF:-1,CCTV 兵器科技HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513403.m3u8
 #EXTINF:-1,CCTV 风云足球HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514203.m3u8
 #EXTINF:-1,CCTV 高尔夫网球HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1,CCTV 女性时尚HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513903.m3u8
 #EXTINF:-1,CCTV 央视文化精品HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513803.m3u8
 #EXTINF:-1,CCTV 央视台球HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
 #EXTINF:-1,CCTV 电视指南HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514003.m3u8
 #EXTINF:-1,CCTV 中视购物
 http://221.179.217.76/PLTV/88888888/224/3221226385/1.m3u8?_=1679967855495&time=1679967875546
 #EXTINF:-1,CCTV 卫生健康HD
@@ -187,7 +187,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="肥羊",青海卫视 标清
 https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="肥羊",西藏卫视
-https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+https://tv.vtibet.cn/live/fvu63z5JqH7P3.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="肥羊",新疆卫视 标清
 https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="爱尚源",重庆卫视
@@ -237,11 +237,8 @@ https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="百事通",五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="百事通",全纪实
-https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="百事通",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000/mnf.m3u8
-
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="百事通",卡酷少儿
 https://live.v1.mk/api/bestv.php?id=kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",纪实科教
@@ -254,6 +251,8 @@ https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="肥羊",乐游
 https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000
+#EXTINF:-1,四海钓鱼
+http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="肥羊",CHC家庭影院 标清
 https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
@@ -261,8 +260,8 @@ https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="肥羊",CHC高清电影
 https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="肥羊",CHC动作电影 标清
-https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="肥羊",CHC动作电影
+http://lu1.cc/itv/php/as.php?id=chcdzdy
 
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="肥羊",都市剧场
 https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
@@ -282,7 +281,7 @@ http://113.207.84.197:8090/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
 #EXTINF:-1,书画
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1,国学
-http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r4/ocn/shuhua/600/index.m3u8?ProgramID=&encrypt=
+http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 #EXTINF:-1,天元围棋
 http://lu1.cc/itv/php/gehua.php?id=tywq2
 #EXTINF:-1,早期教育
@@ -296,7 +295,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1,中央新影-老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1,中央新影-中学生
-http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?&encrypt=1
+http://113.207.84.197:8090/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
 #EXTINF:-1,环球奇观
 http://lu1.cc/itv/php/gudou.php?id=hqqg
 
