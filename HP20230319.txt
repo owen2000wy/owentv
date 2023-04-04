@@ -4,7 +4,7 @@ CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
 CCTV3,http://117.169.121.162:6610/PLTV/88888910/224/3221225647/index.m3u8
 CCTV4,http://117.169.121.162:6610/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4欧洲,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV4美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/index.m3u8?&encrypt=1
+CCTV4美洲,http://lu1.cc/itv/php/migu.php?id=cctv4a
 CCTV5,http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
 CCTV6,http://117.169.121.162:6610/PLTV/88888910/224/3221225650/index.m3u8
@@ -57,15 +57,15 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 歌华导视,#genre#
 歌华导视,https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 北京诸台,#genre#
-北京卫视BTV-1,http://lu1.cc/itv/p/gehua.html?id=bjws
-北京文艺BTV-2,http://lu1.cc/itv/p/gehua.html?id=bjwy
+北京卫视BTV-1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+北京文艺BTV-2,http://live.cooltv.top/tv/btime.php?id=btvwy
 北京科教BTV-3,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000/mnf.m3u8
-北京影视BTV-4,http://lu1.cc/itv/p/gehua.html?id=bjyshd
-北京财经BTV-5,http://lu1.cc/itv/p/gehua.html?id=bjcj
-北京体育休闲BTV-6,http://lu1.cc/itv/p/gehua.html?id=bjcj
-北京生活BTV-7,http://lu1.cc/itv/p/gehua.html?id=bjsh
-北京青年BTV-8,http://lu1.cc/itv/p/gehua.html?id=bjqn
-北京新闻BTV-9,http://lu1.cc/itv/p/gehua.html?id=bjxw
+北京影视BTV-4,http://live.cooltv.top/tv/btime.php?id=btvys
+北京财经BTV-5,http://live.cooltv.top/tv/btime.php?id=btvcj
+北京体育休闲BTV-6,http://lu1.cc/itv/php/btime.php?id=bjtyxx
+北京生活BTV-7,http://live.cooltv.top/tv/btime.php?id=btvsh
+北京青年BTV-8,http://lu1.cc/itv/php/gehua.php?id=bjqn
+北京新闻BTV-9,http://live.cooltv.top/tv/btime.php?id=btvxw
 地方卫视,#genre#
 江苏卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
@@ -195,4 +195,5 @@ CHC动作电影,http://lu1.cc/itv/php/as.php?id=chcdzdy
 凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-四海钓鱼,http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=
+四海钓鱼,http://lu1.cc/itv/php/migu.php?id=shdy
+中国国歌,http://www.gov.cn/guoqing/guoge/guoge.mp4
