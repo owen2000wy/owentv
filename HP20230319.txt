@@ -7,7 +7,7 @@ CCTV4欧洲,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playli
 CCTV4美洲,http://lu1.cc/itv/php/migu.php?id=cctv4a
 CCTV5,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000205103.m3u8
 CCTV5+,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204503.m3u8
-CCTV6,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203303.m3u8
+CCTV6,http://117.169.121.162:6610/PLTV/88888910/224/3221225650/index.m3u8
 CCTV7,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000510003.m3u8
 CCTV8,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203903.m3u8
 CCTV9,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000499403.m3u8
