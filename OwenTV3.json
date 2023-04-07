@@ -5,7 +5,7 @@
     "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
     "drives": [
         {
-            "name": "OwenTV‖小雅的Alist",
+            "name": "小雅的Alist",
             "server": "http://alist.xiaoya.pro",
             "type": "alist"
         },
@@ -134,7 +134,7 @@
     "homepage": "https://gitcode.net/qq_32394351/dr_py",
     "sites": [
 	{
-	    "key":"Alist",
+	    "key":"OwenTV‖Alist",
 	    "name":"Alist",
 	    "type":3,
 	    "api":"http://101.34.67.237/libs/alist.min.js",
