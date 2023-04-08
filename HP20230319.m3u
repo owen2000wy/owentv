@@ -249,6 +249,12 @@ http://lu1.cc/itv/php/gehua.php?id=ly2
 http://lu1.cc/itv/php/gehua.php?id=shdy
 #EXTINF:-1,环球旅游
 http://113.207.84.197:8090/__cl/cg:live/__c/huanqiulvyou/__op/default/__f/index.m3u8
+#EXTINF:-1,中华美食
+http://lu1.cc/itv/php/gehua.php?id=zhms2
+#EXTINF:-1,收藏天下
+http://lu1.cc/itv/php/gehua.php?id=sctx2
+#EXTINF:-1,中华特产
+http://lu1.cc/itv/php/gehua.php?id=zhtc
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="爱尚源",CHC家庭影院
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
