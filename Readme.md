@@ -24,4 +24,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/owentv/main/Owe
 
 （特别声明：接口的直播频道内容来源于网络中各位大佬，本人只是个搬运工和整合者）
 
+附：EPG接口：
+
+Diyp & 百川：http://epg.112114.xyz/，http://diyp.112114.xyz/，http://epg.112114.eu.org/ 
+
+超级直播：https://epg.112114.xyz/epginfo
+
+Xml格式：https://epg.112114.xyz/pp.xml
+
+Kodi可用：http://epg.51zmt.top:8000/e.xml
+
 OwenTV, more stable, more fun!
