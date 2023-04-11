@@ -277,6 +277,10 @@ https://livehttp://113.207.84.197:8090/__cl/cg:live/__c/dfcj/__op/default/__f/in
 http://lu1.cc/itv/php/gehua.php?id=jsrwhd
 #EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="肥羊",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1,弈坛春秋
+http://lu1.cc/itv/php/gehua.php?id=ytcq
+#EXTINF:-1,动感音乐
+http://lu1.cc/itv/php/gehua.php?id=dgyy2
 
 #EXTINF:-1,摄影
 http://113.207.84.197:8090/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8

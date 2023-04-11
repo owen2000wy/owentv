@@ -202,3 +202,5 @@ SITV劲爆体育,http://lu1.cc/itv/php/gehua.php?id=jbty2
 中华特产,http://lu1.cc/itv/php/gehua.php?id=zhtc
 收藏天下,http://lu1.cc/itv/php/gehua.php?id=sctx2
 上海纪实人文,http://lu1.cc/itv/php/gehua.php?id=jsrwhd
+弈坛春秋,http://lu1.cc/itv/php/gehua.php?id=ytcq
+动感音乐,http://lu1.cc/itv/php/gehua.php?id=dgyy2
