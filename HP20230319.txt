@@ -201,3 +201,4 @@ SITV劲爆体育,http://lu1.cc/itv/php/gehua.php?id=jbty2
 中华美食,http://lu1.cc/itv/php/gehua.php?id=zhms2
 中华特产,http://lu1.cc/itv/php/gehua.php?id=zhtc
 收藏天下,http://lu1.cc/itv/php/gehua.php?id=sctx2
+上海纪实人文,http://lu1.cc/itv/php/gehua.php?id=jsrwhd
