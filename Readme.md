@@ -26,7 +26,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/owentv/main/Owe
 
 附：EPG接口：
 
-Diyp & 百川：http://epg.112114.xyz/， http://diyp.112114.xyz/， http://epg.112114.eu.org/ 
+Diyp & 百川：http://epg.112114.xyz/  http://diyp.112114.xyz/  http://epg.112114.eu.org/ 
 
 超级直播：https://epg.112114.xyz/epginfo
 
