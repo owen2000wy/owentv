@@ -1,5 +1,9 @@
 中国中央电视台,#genre#
 CCTV1,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000210103.m3u8
+CCTV1,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV1,http://lu1.cc/itv/php/gehua.php?id=cctv1
+CCTV1,http://lu1.cc/itv/php/migu.php?id=cctv1
 CCTV2,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203603.m3u8
 CCTV3,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203803.m3u8
 CCTV4,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204803.m3u8
@@ -15,6 +19,10 @@ CCTV10,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203503.m3u8
 CCTV11,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204103.m3u8
 CCTV12,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000202603.m3u8
 CCTV13,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13,http://lu1.cc/itv/php/gehua.php?id=cctv13c
+CCTV13,http://lu1.cc/itv/php/migu.php?id=cctv13
 CCTV14,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204403.m3u8
 CCTV15,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000205003.m3u8
 CCTV16,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012492303.m3u8
