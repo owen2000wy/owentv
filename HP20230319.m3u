@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
-http://ainm.cc/itv/php/gehua.php?id=cctv1
+http://ainm.cc/a/play/php/gehua.php?id=cctv1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="南昌移动",CCTV2
@@ -33,7 +33,7 @@ http://113.62.253.22/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONT
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="南昌移动",CCTV12
 http://ainm.cc/a/play/php/gehua.php?id=cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
-http://ainm.cc/itv/php/gehua.php?id=cctv13c
+http://ainm.cc/a/play/php/gehua.php?id=cctv13c
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="南昌移动",CCTV14
@@ -113,7 +113,7 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="肥羊",歌华导视
-http://ainm.cc/itv/php/gehua.php?id=ghds
+http://ainm.cc/a/play/php/gehua.php?id=ghds
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="肥羊",北京卫视BTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
@@ -126,20 +126,20 @@ http://live.cooltv.top/tv/btime.php?id=btvys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="肥羊",北京财经BTV-5
 http://live.cooltv.top/tv/btime.php?id=btvcj
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="肥羊",北京体育休闲BTV-6
-http://ainm.cc/itv/php/btime.php?id=bjtyxx
+http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="肥羊",北京生活BTV-7
 http://live.cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1,tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://epg.112114.xyz/logo/北京青年.png" group-title="肥羊",北京青年BTV-8
-http://ainm.cc/itv/php/gehua.php?id=bjqn
+http://ainm.cc/a/play/php/gehua.php?id=bjqn
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="肥羊",北京新闻BTV-9
 http://live.cooltv.top/tv/btime.php?id=btvxw
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="爱尚源",江苏卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="肥羊",广西卫视
-http://ainm.cc/itv/php/gehua.php?id=gxws
+http://ainm.cc/a/play/php/gehua.php?id=gxws
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="肥羊",四川卫视
-http://ainm.cc/itv/php/gehua.php?id=scws
+http://ainm.cc/a/play/php/gehua.php?id=scws
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="爱尚源",东方卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="爱尚源",湖南卫视
@@ -173,15 +173,15 @@ http://live.cooltv.top/tv/setv.php
 #EXTINF:-1 group-title="百视通" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="肥羊",陕西卫视 标清
-http://ainm.cc/itv/php/gehua.php?id=sxws3
+http://ainm.cc/a/play/php/gehua.php?id=sxws3
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="爱尚源",江西卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="肥羊",河南卫视
-http://ainm.cc/itv/php/gehua.php?id=hnws
+http://ainm.cc/a/play/php/gehua.php?id=hnws
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="爱尚源",河北卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="肥羊",甘肃卫视 标清
-http://ainm.cc/itv/php/gehua.php?id=gsws3
+http://ainm.cc/a/play/php/gehua.php?id=gsws3
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="肥羊",宁夏卫视 标清
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="肥羊",青海卫视 标清
@@ -197,13 +197,13 @@ http://113.62.253.22/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONT
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="肥羊",厦门卫视 标清
 http://1.204.169.243/live.aishang.ctlcdn.com/00000110240159_1/playlist.m3u8?CONTENTID=00000110240159_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="肥羊",云南卫视 标清
-http://ainm.cc/itv/php/gehua.php?id=ynws3
+http://ainm.cc/a/play/php/gehua.php?id=ynws3
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="爱尚源",贵州卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="肥羊",兵团卫视 标清
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="肥羊",海南卫视
-http://ainm.cc/itv/php/gehua.php?id=hinws
+http://ainm.cc/a/play/php/gehua.php?id=hinws
 #EXTINF:-1,三沙卫视
 http://fc3e2a3dca763cf795139f3c5bfd8831.livehwc3.cn/pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1c4bdcf521b99167065fe6dc8a803ea8
 #EXTINF:-1 group-title="境外" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",澳亚卫视
@@ -248,29 +248,29 @@ http://113.207.84.197:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",炫动卡通
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="肥羊",乐游
-http://ainm.cc/itv/php/gehua.php?id=ly2
+http://ainm.cc/a/play/php/gehua.php?id=ly2
 #EXTINF:-1,四海钓鱼
-http://ainm.cc/itv/php/gehua.php?id=shdy
+http://ainm.cc/a/play/php/gehua.php?id=shdy
 #EXTINF:-1,环球旅游
 http://113.207.84.197:8090/__cl/cg:live/__c/huanqiulvyou/__op/default/__f/index.m3u8
 #EXTINF:-1,中华美食
-http://ainm.cc/itv/php/gehua.php?id=zhms2
+http://ainm.cc/a/play/php/gehua.php?id=zhms2
 #EXTINF:-1,收藏天下
-http://ainm.cc/itv/php/gehua.php?id=sctx2
+http://ainm.cc/a/play/php/gehua.php?id=sctx2
 #EXTINF:-1,中华特产
-http://ainm.cc/itv/php/gehua.php?id=zhtc
+http://ainm.cc/a/play/php/gehua.php?id=zhtc
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="爱尚源",CHC家庭影院
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="肥羊",CHC高清电影
-http://ainm.cc/itv/php/gehua.php?id=chcgq
+http://ainm.cc/a/play/php/gehua.php?id=chcgq
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="肥羊",CHC动作电影
 http://ainm.cc/itv/php/as.php?id=chcdzdy
 
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="肥羊",都市剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="肥羊",劲爆体育
-http://ainm.cc/itv/php/gehua.php?id=jbty2
+http://ainm.cc/a/play/php/gehua.php?id=jbty2
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="肥羊",动漫秀场
 http://113.207.84.197:8090/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="肥羊",游戏风云
@@ -278,13 +278,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="肥羊",东方财经
 http://113.207.84.197:8090/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
 #EXTINF:-1,上海纪实人文
-http://ainm.cc/itv/php/gehua.php?id=jsrwhd
+http://ainm.cc/a/play/php/gehua.php?id=jsrwhd
 #EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="肥羊",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1,弈坛春秋
-http://ainm.cc/itv/php/gehua.php?id=ytcq
+http://ainm.cc/a/play/php/gehua.php?id=ytcq
 #EXTINF:-1,动感音乐
-http://ainm.cc/itv/php/gehua.php?id=dgyy2
+http://ainm.cc/a/play/php/gehua.php?id=dgyy2
 
 #EXTINF:-1,摄影
 http://113.207.84.197:8090/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
@@ -293,9 +293,9 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1,国学
 http://113.207.84.197:8090/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8
 #EXTINF:-1,天元围棋
-http://ainm.cc/itv/php/gehua.php?id=tywq2
+http://ainm.cc/a/play/php/gehua.php?id=tywq2
 #EXTINF:-1,早期教育
-http://ainm.cc/itv/php/gehua.php?id=zqjy2
+http://ainm.cc/a/play/php/gehua.php?id=zqjy2
 #EXTINF:-1,靓妆
 http://ainm.cc/itv/php/migu.php?id=jslz
 #EXTINF:-1,汽摩
