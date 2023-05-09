@@ -34,4 +34,22 @@ Xml格式：https://epg.112114.xyz/pp.xml
 
 Kodi可用：http://epg.51zmt.top:8000/e.xml
 
+附2：TV客户端下载地址
+
+Vlc：https://www.videolan.org/
+
+PotPlayer：http://potplayer.tv/?lang=zh_CN
+
+Kodi：http://www.kodiplayer.cn/download/
+
+FongMi影视TV版：https://wwxt.lanzout.com/ip2K20uvnupa
+
+FongMi影视手机版：https://wwxt.lanzout.com/i0TQv0uvnvta
+
+TVBox：https://wwxt.lanzout.com/iZaXu0uvnwpc
+
+DIYP影音：https://wwxt.lanzout.com/in9tu0uvnx4h
+
+黑鸟播放器：https://wwa.lanzoui.com/i4IVjrn8b5e
+
 OwenTV, more stable, more fun!
