@@ -29,7 +29,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv9
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="南昌移动",CCTV10
 http://ainm.cc/a/play/php/gehua.php?id=cctv10
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="南昌移动",CCTV11
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://ainm.cc/a/play/php/gehua.php?id=cctv11c
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="南昌移动",CCTV12
 http://ainm.cc/a/play/php/gehua.php?id=cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
@@ -39,7 +39,7 @@ https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="南昌移动",CCTV14
 http://ainm.cc/a/play/php/gehua.php?id=cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="南昌移动",CCTV15
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="肥羊",CCTV16
 http://ainm.cc/a/play/php/gehua.php?id=cctv16
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="南昌移动",CCTV17
@@ -48,7 +48,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv17
 http://ainm.cc/a/play/php/gehua.php?id=cctv4k
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="爱尚源",中国教育1
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://ainm.cc/a/play/php/gehua.php?id=cetv1
 #EXTINF:-1 group-title="百视通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png",中国教育2
 http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="肥羊",中国教育3
@@ -116,7 +116,7 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://ainm.cc/a/play/php/gehua.php?id=ghds
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="肥羊",北京卫视BTV-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+http://live.cooltv.top/tv/btime.php?id=bjws
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="肥羊",北京文艺BTV-2
 http://live.cooltv.top/tv/btime.php?id=btvwy
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="肥羊",北京科教BTV-3

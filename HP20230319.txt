@@ -16,7 +16,7 @@ CCTV7,http://ainm.cc/a/play/php/gehua.php?id=cctv7
 CCTV8,http://ainm.cc/a/play/php/gehua.php?id=cctv8
 CCTV9,http://ainm.cc/a/play/php/gehua.php?id=cctv9
 CCTV10,http://ainm.cc/a/play/php/gehua.php?id=cctv10
-CCTV11,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV11,http://ainm.cc/a/play/php/gehua.php?id=cctv11c
 CCTV12,http://ainm.cc/a/play/php/gehua.php?id=cctv12
 CCTV13,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204603.m3u8
 CCTV13,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
@@ -24,14 +24,14 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://ainm.cc/a/play/php/gehua.php?id=cctv13c
 CCTV13,http://ainm.cc/itv/php/migu.php?id=cctv13
 CCTV14,http://ainm.cc/a/play/php/gehua.php?id=cctv14
-CCTV15,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://ainm.cc/a/play/php/gehua.php?id=cctv16
 CCTV17,http://ainm.cc/a/play/php/gehua.php?id=cctv17
 CCTV4K,http://ainm.cc/a/play/php/gehua.php?id=cctv4k
 中国天气,http://ainm.cc/itv/php/gudou.php?id=zgtq
 中国交通,https://tv.lanjingfm.com/cctbn/heibei.m3u8
 中国教育电视台,#genre#
-中国教育1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+中国教育1,http://ainm.cc/a/play/php/gehua.php?id=cetv1
 中国教育2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 中国教育3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 中国教育4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
@@ -66,7 +66,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 歌华导视,#genre#
 歌华导视,http://ainm.cc/a/play/php/gehua.php?id=ghds
 北京诸台,#genre#
-北京卫视BTV-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+北京卫视BTV-1,http://live.cooltv.top/tv/btime.php?id=bjws
 北京文艺BTV-2,http://live.cooltv.top/tv/btime.php?id=btvwy
 北京科教BTV-3,http://113.207.84.197:8090/__cl/cg:live/__c/bjayjsSD/__op/default/__f/index.m3u8
 北京影视BTV-4,http://live.cooltv.top/tv/btime.php?id=btvys
