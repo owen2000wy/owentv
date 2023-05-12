@@ -25,7 +25,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv7
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="南昌移动",CCTV8
 http://ainm.cc/a/play/php/gehua.php?id=cctv8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="南昌移动",CCTV9
-http://ainm.cc/a/play/php/gehua.php?id=cctv9
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="南昌移动",CCTV10
 http://ainm.cc/a/play/php/gehua.php?id=cctv10
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="南昌移动",CCTV11
@@ -116,23 +116,23 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://ainm.cc/a/play/php/gehua.php?id=ghds
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="肥羊",北京卫视BTV-1
-http://live.cooltv.top/tv/btime.php?id=bjws
+http://120.204.20.48/downflv.brtvcloud.com/wei110shi/appweishi.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="肥羊",北京文艺BTV-2
-http://live.cooltv.top/tv/btime.php?id=btvwy
+http://120.204.20.48/downflv.brtvcloud.com/wen443yi/appwenyi.m3u8
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="肥羊",北京科教BTV-3
 http://113.207.84.197:8090/__cl/cg:live/__c/bjayjsSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="肥羊",北京影视BTV-4
-http://live.cooltv.top/tv/btime.php?id=btvys
+http://120.204.20.48/downflv.brtvcloud.com/ying332shi/appyingshi.m3u8
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="肥羊",北京财经BTV-5
-http://live.cooltv.top/tv/btime.php?id=btvcj
+http://120.204.20.48/downflv.brtvcloud.com/cai776jing/appcaijing.m3u8
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="肥羊",北京体育休闲BTV-6
 http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="肥羊",北京生活BTV-7
-http://live.cooltv.top/tv/btime.php?id=btvsh
+http://120.204.20.48/downflv.brtvcloud.com/sheng666huo/appshenghuo.m3u8
 #EXTINF:-1,tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://epg.112114.xyz/logo/北京青年.png" group-title="肥羊",北京青年BTV-8
 http://ainm.cc/a/play/php/gehua.php?id=bjqn
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="肥羊",北京新闻BTV-9
-http://live.cooltv.top/tv/btime.php?id=btvxw
+http://120.204.20.48/downflv.brtvcloud.com/xin887wen/appxinwen.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="爱尚源",江苏卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -141,7 +141,7 @@ http://ainm.cc/a/play/php/gehua.php?id=gxws
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="肥羊",四川卫视
 http://ainm.cc/a/play/php/gehua.php?id=scws
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="爱尚源",东方卫视
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://113.207.84.197:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="爱尚源",湖南卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="爱尚源",浙江卫视
@@ -163,7 +163,7 @@ http://113.62.253.22/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONT
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="爱尚源",湖北卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="爱尚源",吉林卫视
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://113.207.84.197:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="爱尚源",山东卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,山东教育卫视
@@ -216,10 +216,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 http://ainm.cc/itv/php/gudou.php?id=fct
 #EXTINF:-1,明珠台
 http://ainm.cc/itv/php/gudou.php?id=mzt
-#EXTINF:-1,凤凰中文 576
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-#EXTINF:-1,凤凰资讯 576
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1,凤凰中文
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+#EXTINF:-1,凤凰资讯
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
