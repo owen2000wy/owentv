@@ -26,7 +26,11 @@ https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
 
 附：EPG接口：
 
-Diyp & 百川：http://epg.112114.xyz/， http://diyp.112114.xyz/， http://epg.112114.eu.org/ 
+Diyp & 百川：http://epg.112114.xyz/ 
+
+                     http://diyp.112114.xyz/
+
+                     http://epg.112114.eu.org/ 
 
 超级直播：https://epg.112114.xyz/epginfo
 
@@ -42,9 +46,9 @@ PotPlayer：http://potplayer.tv/?lang=zh_CN
 
 Kodi：http://www.kodiplayer.cn/download/
 
-FongMi影视TV版：https://wwxt.lanzout.com/ip2K20uvnupa
+FongMi影视TV版：https://fatcat2023.lanzoui.com/b04dyuv7a
 
-FongMi影视手机版：https://wwxt.lanzout.com/i0TQv0uvnvta
+FongMi影视手机版：https://fatcat2023.lanzoui.com/b04dyuv9c
 
 TVBox：https://wwxt.lanzout.com/iZaXu0uvnwpc
 
