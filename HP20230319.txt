@@ -158,7 +158,7 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 彩蛋-猫和老鼠,#genre#
 彩蛋-猫和老鼠直播间1,https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
 彩蛋-猫和老鼠直播间2,https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
-猫和老鼠直播间3,http://tc-tct1.douyucdn.cn/live/7888428rdEWPkeP6.m3u8?uuid=
+猫和老鼠直播间3,http://epg.112114.xyz/douyu/7888428
 国家广播,#genre#
 国广-CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 国广-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
