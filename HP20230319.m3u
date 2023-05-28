@@ -41,7 +41,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="南昌移动",CCTV15
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="肥羊",CCTV16
-http://lu1.cc/itv/php/gehua.php?id=cctv16hd
+http://113.207.84.195:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="南昌移动",CCTV17
 http://ainm.cc/a/play/php/gehua.php?id=cctv17
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="百事通",CCTV-4K
@@ -143,7 +143,7 @@ http://ainm.cc/a/play/php/gehua.php?id=scws
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="爱尚源",东方卫视
 http://lu1.cc/itv/php/cqyx.php?id=dfws
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="爱尚源",湖南卫视
-http://lu1.cc/itv/php/cqyx.php?id=fxzl
+http://lu1.cc/itv/php/cqyx.php?id=hunws
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="爱尚源",浙江卫视
 http://lu1.cc/itv/php/gehua.php?id=zjws
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="爱尚源",天津卫视
@@ -159,7 +159,7 @@ http://lu1.cc/itv/nmtv/nmxl.php?id=nmws
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="爱尚源",广东卫视
 http://lu1.cc/itv/php/gehua.php?id=gdws
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="爱尚源",深圳卫视
-http://lu1.cc/itv/gdtv/sztv.php?id=szws
+http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="爱尚源",湖北卫视
 http://113.207.84.195:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="爱尚源",吉林卫视
