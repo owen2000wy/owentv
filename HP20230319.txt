@@ -213,5 +213,4 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 网络-萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 新加台测试中,#genre#
-野生动物,
-录制的电视,
+录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7_scenic-demoshort_raw.wtv
