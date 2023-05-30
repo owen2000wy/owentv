@@ -232,9 +232,9 @@ http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43087/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",戏曲精选
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8?
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="百事通",东方影视
-http://www.happyspace.party:4022/udp/239.45.3.237:5140
+http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="百事通",五星体育
-http://www.happyspace.party:4022/udp/239.45.3.210:5140
+https://cntv.sbs/live05?id=wxty
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="百事通",新视觉
 https://cntv.sbs/live05?id=xsj
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="百事通",卡酷少儿
@@ -402,3 +402,5 @@ http://ls.qingting.fm/live/2507637.m3u8
 http://211.149.226.193:8066/1022.mp3
 #EXTINF:-1,radio=true,网络-500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+#EXTINF:-1,radio=true,央视-CCTV13
+http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8

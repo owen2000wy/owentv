@@ -140,8 +140,8 @@ CHC动作电影,http://lu1.cc/itv/php/cqyx.php?id=chcdz
 快乐垂钓,http://lu1.cc/itv/php/cqyx.php?id=klcd
 金鹰纪实,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43087/index.m3u8
 戏曲精选,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8?
-东方影视,http://www.happyspace.party:4022/udp/239.45.3.237:5140
-五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
+东方影视,http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
+五星体育,https://cntv.sbs/live05?id=wxty
 新视觉,https://cntv.sbs/live05?id=xsj
 卡酷少儿,http://lu1.cc/itv/bjtv/btime1.php?id=bjkk
 茶频道,https://cntv.sbs/live05?id=cpd
@@ -212,5 +212,6 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 网络广播,#genre#
 网络-萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+央视-CCTV13,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 新加台测试中,#genre#
 录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7_scenic-demoshort_raw.wtv
