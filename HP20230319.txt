@@ -214,4 +214,4 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 网络-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 央视-CCTV13,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 新加台测试中,#genre#
-录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7_scenic-demoshort_raw.wtv
+录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7-scenic-demoshort-raw.mp4
