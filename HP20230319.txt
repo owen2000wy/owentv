@@ -1,6 +1,5 @@
 中国中央电视台,#genre#
 CCTV1,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000210103.m3u8
-CCTV1,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1,http://ainm.cc/a/play/php/gehua.php?id=cctv1
 CCTV1,http://lu1.cc/itv/php/migu.php?id=cctv1
@@ -19,7 +18,7 @@ CCTV10,http://ainm.cc/a/play/php/gehua.php?id=cctv10
 CCTV11,http://ainm.cc/a/play/php/gehua.php?id=cctv11c
 CCTV12,http://ainm.cc/a/play/php/gehua.php?id=cctv12
 CCTV13,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204603.m3u8
-CCTV13,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://ainm.cc/a/play/php/gehua.php?id=cctv13c
 CCTV13,http://lu1.cc/itv/php/migu.php?id=cctv13

@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
 http://ainm.cc/a/play/php/gehua.php?id=cctv1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="南昌移动",CCTV2
 http://ainm.cc/a/play/php/gehua.php?id=cctv2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="南昌移动",CCTV3
@@ -35,7 +35,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
 http://ainm.cc/a/play/php/gehua.php?id=cctv13c
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="南昌移动",CCTV14
 http://ainm.cc/a/play/php/gehua.php?id=cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="南昌移动",CCTV15
