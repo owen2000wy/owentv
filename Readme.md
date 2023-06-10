@@ -14,10 +14,6 @@ https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
 
 接口：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
 
-再后来，经过QQ相关技术群各位大佬的耐心指导，我在原“酷云七七”Tvbox接口的基础上把电视广播直播源更换为了自用的，亲测已可用于Tvbox端，与之前那两个版本的接口内容相同，且长期同步维护。
-
-接口：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV2.json
-
 至此，本电视广播直播接口系列终于完成了计划中的各项技术指标，大功告成！
 
 以上三个接口我都会长期维护，敬请各位享用！谢谢朋友们！
@@ -26,11 +22,7 @@ https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
 
 附：EPG接口：
 
-Diyp & 百川：http://epg.112114.xyz/ 
-
-                     http://diyp.112114.xyz/
-
-                     http://epg.112114.eu.org/ 
+Diyp & 百川：http://epg.112114.xyz/  ┃  http://diyp.112114.xyz/  ┃  http://epg.112114.eu.org/ 
 
 超级直播：https://epg.112114.xyz/epginfo
 
@@ -50,9 +42,11 @@ FongMi影视TV版：https://fatcat2023.lanzoui.com/b04dyuv7a
 
 FongMi影视手机版：https://fatcat2023.lanzoui.com/b04dyuv9c
 
-TVBox：https://wwxt.lanzout.com/iZaXu0uvnwpc
+TVBox：https://wwxt.lanzout.com/iQ4Q90yrbcpa
 
 DIYP影音：https://wwxt.lanzout.com/in9tu0uvnx4h
+
+TiviMate：https://wwxt.lanzout.com/irKgw0yml3cd
 
 黑鸟播放器：https://wwa.lanzoui.com/i4IVjrn8b5e
 
