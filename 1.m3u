@@ -142,7 +142,7 @@ http://lu1.cc/itv/php/bjcd1.php?id=tjws
 #EXTINF:-1,辽宁卫视
 http://lu1.cc/itv/php/cqyx.php?id=lnws
 #EXTINF:-1,安徽卫视
-http://lu1.cc/itv/ahtv/ahtv1.php?id=ahws
+https://cntv.sbs/live?auth=230601&id=ahws
 #EXTINF:-1,黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1,内蒙古卫视
@@ -156,7 +156,7 @@ http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 #EXTINF:-1,吉林卫视
 http://lu1.cc/itv/php/cqyx.php?id=jlws
 #EXTINF:-1,山东卫视
-http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
+https://cntv.sbs/live?auth=230601&id=sdws
 #EXTINF:-1,山东教育卫视
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1,上海教育电视台
@@ -214,7 +214,7 @@ http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1,欢笑剧场
 https://cntv.sbs/live?auth=230601&id=hxjc
 #EXTINF:-1,劲爆体育
-https://cntv.sbs/live05?id=jbty
+https://cntv.sbs/live?auth=230601&id=jbty
 #EXTINF:-1,快乐垂钓
 http://lu1.cc/itv/php/cqyx.php?id=klcd
 #EXTINF:-1,金鹰纪实
@@ -282,7 +282,7 @@ http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 #EXTINF:-1,天元围棋
 http://ainm.cc/a/play/php/gehua.php?id=tywq2
 #EXTINF:-1,早期教育
-http://ainm.cc/a/play/php/gehua.php?id=zqjy2
+http://lu1.cc/itv/php/cqyx.php?id=zqjy
 #EXTINF:-1,靓妆
 http://lu1.cc/itv/php/migu.php?id=jslz
 #EXTINF:-1,汽摩
