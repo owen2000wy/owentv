@@ -83,14 +83,14 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 天津卫视,http://lu1.cc/itv/php/bjcd1.php?id=tjws
 辽宁卫视,http://lu1.cc/itv/php/cqyx.php?id=lnws
-安徽卫视,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahws
+安徽卫视,https://cntv.sbs/live?auth=230601&id=ahws
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 内蒙古卫视,http://lu1.cc/itv/nmtv/nmxl.php?id=nmws
 广东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 深圳卫视,http://lu1.cc/itv/php/cqyx.php?id=szws
 湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 吉林卫视,http://lu1.cc/itv/php/cqyx.php?id=jlws
-山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
+山东卫视,https://cntv.sbs/live?auth=230601&id=sdws
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 上海教育电视台,http://live.cooltv.top/tv/setv.php
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
@@ -126,7 +126,7 @@ CHC动作电影,http://lu1.cc/itv/php/cqyx.php?id=chcdz
 书画,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 国学,http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 天元围棋,http://ainm.cc/a/play/php/gehua.php?id=tywq2
-早期教育,http://ainm.cc/a/play/php/gehua.php?id=zqjy2
+早期教育,http://lu1.cc/itv/php/cqyx.php?id=zqjy
 靓妆,http://lu1.cc/itv/php/migu.php?id=jslz
 汽摩,http://lu1.cc/itv/php/cqyx.php?id=cqqm
 中央新影-发现之旅,http://lu1.cc/itv/php/cqyx.php?id=fxzl

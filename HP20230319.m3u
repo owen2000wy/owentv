@@ -151,7 +151,7 @@ http://lu1.cc/itv/php/bjcd1.php?id=tjws
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="爱尚源",辽宁卫视
 http://lu1.cc/itv/php/cqyx.php?id=lnws
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="爱尚源",安徽卫视
-http://lu1.cc/itv/ahtv/ahtv1.php?id=ahws
+https://cntv.sbs/live?auth=230601&id=ahws
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="爱尚源",黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="肥羊",内蒙古卫视 标清
@@ -165,7 +165,7 @@ http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="爱尚源",吉林卫视
 http://lu1.cc/itv/php/cqyx.php?id=jlws
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="爱尚源",山东卫视
-http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
+https://cntv.sbs/live?auth=230601&id=sdws
 #EXTINF:-1,山东教育卫视
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1,上海教育电视台
@@ -224,7 +224,7 @@ http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场
 https://cntv.sbs/live?auth=230601&id=hxjc
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="百事通",劲爆体育
-https://cntv.sbs/live05?id=jbty
+https://cntv.sbs/live?auth=230601&id=jbty
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="百事通",快乐垂钓
 http://lu1.cc/itv/php/cqyx.php?id=klcd
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="爱尚源",金鹰纪实
@@ -295,7 +295,7 @@ http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 #EXTINF:-1,天元围棋
 http://ainm.cc/a/play/php/gehua.php?id=tywq2
 #EXTINF:-1,早期教育
-http://ainm.cc/a/play/php/gehua.php?id=zqjy2
+http://lu1.cc/itv/php/cqyx.php?id=zqjy
 #EXTINF:-1,靓妆
 http://lu1.cc/itv/php/migu.php?id=jslz
 #EXTINF:-1,汽摩
