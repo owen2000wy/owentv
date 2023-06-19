@@ -213,7 +213,7 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 新加台测试中,#genre#
 录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7-scenic-demoshort-raw.mp4
 百姓健康,http://lu1.cc/itv/php/cqyx.php?id=bxjk
-生态环境,http://lu1.cc/itv/php/cqyx.php?id=shdy
+生态环境,http://lu1.cc/itv/php/cqyx.php?id=sthj
 求索记录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
 金鹰卡通,http://lu1.cc/itv/php/cqyx.php?id=jykt
