@@ -27,7 +27,8 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://ainm.cc/a/play/php/gehua.php?id=cctv17
 CCTV4K,http://ainm.cc/a/play/php/gehua.php?id=cctv4k
-中国天气,https://cntv.sbs/live?auth=230612&id=zgtq
+CCTV4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+中国天气,http://lu1.cc/itv/php/cqyx.php?id=zgtq
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 中国教育电视台,#genre#
 中国教育1,http://ainm.cc/a/play/php/gehua.php?id=cetv1
@@ -72,7 +73,6 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 北京财经BTV-5,http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
 北京体育休闲BTV-6,http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
 北京生活BTV-7,http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
-北京青年BTV-8,http://ainm.cc/a/play/php/gehua.php?id=bjqn
 北京新闻BTV-9,http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
 地方卫视,#genre#
 江苏卫视,http://lu1.cc/itv/jstv/jstv.php?id=jsws
@@ -127,7 +127,6 @@ CHC动作电影,http://lu1.cc/itv/php/cqyx.php?id=chcdz
 国学,http://lu1.cc/itv/hntv/hntv.php?id=gxpd
 天元围棋,http://ainm.cc/a/play/php/gehua.php?id=tywq2
 早期教育,http://lu1.cc/itv/php/cqyx.php?id=zqjy
-靓妆,http://lu1.cc/itv/php/migu.php?id=jslz
 汽摩,http://lu1.cc/itv/php/cqyx.php?id=cqqm
 中央新影-发现之旅,http://lu1.cc/itv/php/cqyx.php?id=fxzl
 中央新影-老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
@@ -150,7 +149,6 @@ CHC动作电影,http://lu1.cc/itv/php/cqyx.php?id=chcdz
 四海钓鱼,http://ainm.cc/a/play/php/gehua.php?id=shdy
 环球旅游,http://lu1.cc/itv/php/cqyx.php?id=hqly
 SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
-SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 动漫秀场,http://lu1.cc/itv/php/cqyx.php?id=dmxc
 游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 东方财经,http://lu1.cc/itv/php/cqyx.php?id=dfcj
@@ -164,7 +162,7 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 彩蛋-猫和老鼠,#genre#
 彩蛋-猫和老鼠直播间1,https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
 彩蛋-猫和老鼠直播间2,https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
-猫和老鼠直播间3,http://epg.112114.xyz/douyu/7888428
+猫和老鼠直播间3,https://epg.112114.xyz/huya/11352879
 国家广播,#genre#
 国广-CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 国广-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -214,3 +212,8 @@ SITV劲爆体育,http://ainm.cc/a/play/php/gehua.php?id=jbty2
 央视-CCTV13,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 新加台测试中,#genre#
 录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7-scenic-demoshort-raw.mp4
+百姓健康,http://lu1.cc/itv/php/cqyx.php?id=bxjk
+生态环境,http://lu1.cc/itv/php/cqyx.php?id=shdy
+求索记录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
+金鹰卡通,http://lu1.cc/itv/php/cqyx.php?id=jykt
