@@ -1,7 +1,5 @@
 中国中央电视台,#genre#
-CCTV1,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000210103.m3u8
-CCTV1,https://cctvwbndbd.a.bdydns.com/cctvwbnd/cctv1_2/index.m3u8
-CCTV1,http://ainm.cc/a/play/php/gehua.php?id=cctv1
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://lu1.cc/itv/php/migu.php?id=cctv1
 CCTV2,http://ainm.cc/a/play/php/gehua.php?id=cctv2
 CCTV3,http://ainm.cc/a/play/php/gehua.php?id=cctv3
@@ -17,10 +15,8 @@ CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV10,http://ainm.cc/a/play/php/gehua.php?id=cctv10
 CCTV11,http://ainm.cc/a/play/php/gehua.php?id=cctv11c
 CCTV12,http://ainm.cc/a/play/php/gehua.php?id=cctv12
-CCTV13,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204603.m3u8
-CCTV13,https://cctvwbndbd.a.bdydns.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://ainm.cc/a/play/php/gehua.php?id=cctv13c
 CCTV13,http://lu1.cc/itv/php/migu.php?id=cctv13
 CCTV14,http://ainm.cc/a/play/php/gehua.php?id=cctv14
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
@@ -36,30 +32,30 @@ CCTV4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 中国教育3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 中国教育4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 中央电视台付费频道,#genre#
-CCTV 第一剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8
-CCTV 风云剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513603.m3u8
-CCTV 怀旧剧场HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012511203.m3u8
-CCTV 世界地理HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
-CCTV 风云音乐HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514103.m3u8
-CCTV 兵器科技HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513403.m3u8
-CCTV 风云足球HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514203.m3u8
-CCTV 高尔夫网球HD,http://lu1.cc/itv/php/cqyx.php?id=gefwq
-CCTV 女性时尚HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513903.m3u8
-CCTV 央视文化精品HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513803.m3u8
-CCTV 央视台球HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
-CCTV 电视指南HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514003.m3u8
+CCTV第一剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV怀旧剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV世界地理HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV风云音乐HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV兵器科技HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV风云足球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV高尔夫网球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CCTV女性时尚HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
+CCTV央视文化精品HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV央视台球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV电视指南HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV中视购物,http://lu1.cc/itv/php/cqyx.php?id=zsgw
-CCTV 卫生健康HD,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513503.m3u8
+CCTV 卫生健康HD,https://live.goodiptv.club/api/yqgd.php?id=wsjk
 4k测试,#genre#
 4K1,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K2,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,#genre#
 CGTN-英语,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN-纪录,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2010155403.m3u8
-CGTN-西班牙语,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2010152503.m3u8
-CGTN-法语,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2010153503.m3u8
-CGTN-阿拉伯语,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2010155203.m3u8
-CGTN-俄语,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2010152603.m3u8
+CGTN-纪录,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN-西班牙语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN-法语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN-阿拉伯语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN-俄语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 新华社,#genre#
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -71,7 +67,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 北京科教BTV-3,http://lu1.cc/itv/php/cqyx.php?id=bjjskj
 北京影视BTV-4,http://lu1.cc/itv/bjtv/btime1.php?id=bjys
 北京财经BTV-5,http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
-北京体育休闲BTV-6,http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
+北京体育休闲BTV-6,http://v2.91kds.cn/b9/bjpgtv.m3u8?id=btvjs&app=org.jykds.tvlive&version=2.2.4&mac=00:91:91:91:55&nwtime=1687658903&sign=a1bcbaee2424d91bd31d9f3ed57ee0d3&ev=20201011
 北京生活BTV-7,http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 北京新闻BTV-9,http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
 地方卫视,#genre#
@@ -81,14 +77,14 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 东方卫视,http://lu1.cc/itv/php/cqyx.php?id=dfws
 湖南卫视,http://lu1.cc/itv/php/cqyx.php?id=hunws
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
-天津卫视,http://lu1.cc/itv/php/bjcd1.php?id=tjws
+天津卫视,http://lu1.cc/itv/php/cqyx.php?id=tjws
 辽宁卫视,http://lu1.cc/itv/php/cqyx.php?id=lnws
 安徽卫视,https://cntv.sbs/live?auth=230612&id=ahws
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 内蒙古卫视,http://lu1.cc/itv/nmtv/nmxl.php?id=nmws
 广东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 深圳卫视,http://lu1.cc/itv/php/cqyx.php?id=szws
-湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 吉林卫视,http://lu1.cc/itv/php/cqyx.php?id=jlws
 山东卫视,https://cntv.sbs/live?auth=230612&id=sdws
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
@@ -97,7 +93,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 陕西卫视,http://ainm.cc/a/play/php/gehua.php?id=sxws3
 江西卫视,http://lu1.cc/itv/php/cqyx.php?id=jxws
 河南卫视,http://ainm.cc/a/play/php/gehua.php?id=hnws
-河北卫视,http://lu1.cc/itv/php/bjcd1.php?id=hbws
+河北卫视,http://lu1.cc/itv/php/cqyx.php?id=hbws
 甘肃卫视,http://ainm.cc/a/play/php/gehua.php?id=gsws3
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -107,7 +103,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 东南卫视,http://lu1.cc/itv/php/cqyx.php?id=dnws
 厦门卫视,https://cntv.sbs/live?auth=230612&id=xmws
 云南卫视,http://ainm.cc/a/play/php/gehua.php?id=ynws3
-贵州卫视,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000293303.m3u8
+贵州卫视,http://lu1.cc/itv/php/cqyx.php?id=gzws
 兵团卫视,http://lu1.cc/itv/php/cqyx.php?id=btws
 海南卫视,http://ainm.cc/a/play/php/gehua.php?id=hinws
 三沙卫视,http://fc3e2a3dca763cf795139f3c5bfd8831.livehwc3.cn/pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1c4bdcf521b99167065fe6dc8a803ea8
