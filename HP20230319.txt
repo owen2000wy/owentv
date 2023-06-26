@@ -67,7 +67,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 北京科教BTV-3,http://lu1.cc/itv/php/cqyx.php?id=bjjskj
 北京影视BTV-4,http://lu1.cc/itv/bjtv/btime1.php?id=bjys
 北京财经BTV-5,http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
-北京体育休闲BTV-6,http://v2.91kds.cn/b9/bjpgtv.m3u8?id=btvjs&app=org.jykds.tvlive&version=2.2.4&mac=00:91:91:91:55&nwtime=1687658903&sign=a1bcbaee2424d91bd31d9f3ed57ee0d3&ev=20201011
+北京体育休闲BTV-6,http://lu1.cc/itv/bjtv/btime1.php?id=bjtyxx
 北京生活BTV-7,http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 北京新闻BTV-9,http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
 地方卫视,#genre#
