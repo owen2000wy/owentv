@@ -11,7 +11,7 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="南昌移动",CCTV4
 http://ainm.cc/a/play/php/gehua.php?id=cctv4
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="爱尚源",CCTV4欧洲
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://120.234.220.107:9000/udp/239.21.0.107:3768
 #EXTINF:-1,CCTV4美洲
 http://120.234.220.107:9000/udp/239.21.0.108:3772
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="南昌移动",CCTV5
@@ -128,7 +128,7 @@ http://lu1.cc/itv/bjtv/btime1.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="肥羊",北京财经BTV-5
 http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="肥羊",北京体育休闲BTV-6
-http://v2.91kds.cn/b9/bjpgtv.m3u8?id=btvjs&app=org.jykds.tvlive&version=2.2.4&mac=00:91:91:91:55&nwtime=1687658903&sign=a1bcbaee2424d91bd31d9f3ed57ee0d3&ev=20201011
+http://lu1.cc/itv/bjtv/btime1.php?id=bjty
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="肥羊",北京生活BTV-7
 http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="肥羊",北京新闻BTV-9
@@ -318,7 +318,7 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/inde
 #EXTINF:-1,彩蛋-猫和老鼠直播间2
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
 #EXTINF:-1,彩蛋-猫和老鼠直播间3
-https://epg.112114.xyz/huya/11352879
+http://mmitv.top/pltv/huya.php?id=11352879
 
 #EXTINF:-1,radio=true,国广-CRI 环球资讯广播 FM90.5
 http://sk.cri.cn/905.m3u8
