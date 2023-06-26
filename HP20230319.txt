@@ -67,7 +67,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 北京科教BTV-3,http://lu1.cc/itv/php/cqyx.php?id=bjjskj
 北京影视BTV-4,http://lu1.cc/itv/bjtv/btime1.php?id=bjys
 北京财经BTV-5,http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
-北京体育休闲BTV-6,http://lu1.cc/itv/bjtv/btime1.php?id=bjtyxx
+北京体育休闲BTV-6,http://lu1.cc/itv/bjtv/btime1.php?id=bjty
 北京生活BTV-7,http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 北京新闻BTV-9,http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
 地方卫视,#genre#
@@ -158,7 +158,7 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 彩蛋-猫和老鼠,#genre#
 彩蛋-猫和老鼠直播间1,https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
 彩蛋-猫和老鼠直播间2,https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
-猫和老鼠直播间3,https://epg.112114.xyz/huya/11352879
+猫和老鼠直播间3,http://mmitv.top/pltv/huya.php?id=11352879
 国家广播,#genre#
 国广-CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 国广-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
