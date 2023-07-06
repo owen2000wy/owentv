@@ -11,9 +11,9 @@ http://ainm.cc/a/play/php/gehua.php?id=cctv3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="南昌移动",CCTV4
 http://ainm.cc/a/play/php/gehua.php?id=cctv4
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="爱尚源",CCTV4欧洲
-http://120.234.220.107:9000/udp/239.21.0.107:3768
+http://61.160.152.68/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,CCTV4美洲
-http://120.234.220.107:9000/udp/239.21.0.108:3772
+http://dnms.top/tv/php/migu.php?id=cctv4a
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="南昌移动",CCTV5
 http://ainm.cc/a/play/php/gehua.php?id=cctv5
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="南昌移动",CCTV5+
@@ -118,21 +118,21 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://ainm.cc/a/play/php/gehua.php?id=ghds
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="肥羊",北京卫视BTV-1
-http://lu1.cc/itv/bjtv/btime1.php?id=bjws
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="肥羊",北京文艺BTV-2
-http://lu1.cc/itv/bjtv/btime1.php?id=bjwy
+http://dnms.top/tv/bjtv/btime1.php?id=bjwy
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="肥羊",北京科教BTV-3
 http://lu1.cc/itv/php/cqyx.php?id=bjjskj
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="肥羊",北京影视BTV-4
-http://lu1.cc/itv/bjtv/btime1.php?id=bjys
+http://dnms.top/tv/bjtv/btime1.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="肥羊",北京财经BTV-5
-http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
+http://dnms.top/tv/bjtv/btime1.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="肥羊",北京体育休闲BTV-6
-http://lu1.cc/itv/bjtv/btime1.php?id=bjty
+http://dnms.top/tv/bjtv/btime1.php?id=bjty
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="肥羊",北京生活BTV-7
-http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
+http://dnms.top/tv/bjtv/btime1.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="肥羊",北京新闻BTV-9
-http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
+http://dnms.top/tv/bjtv/btime1.php?id=bjxw
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="爱尚源",江苏卫视
 http://lu1.cc/itv/jstv/jstv.php?id=jsws
@@ -238,7 +238,7 @@ https://cntv.sbs/live?auth=230612&id=wxty
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="百事通",新视觉
 https://cntv.sbs/live?auth=230612&id=xsj
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="百事通",卡酷少儿
-http://lu1.cc/itv/bjtv/btime1.php?id=bjkk
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 #EXTINF:-1,金鹰卡通
 http://lu1.cc/itv/php/cqyx.php?id=jykt
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="百事通",茶频道
