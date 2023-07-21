@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
-http://ainm.cc/a/play/php/gehua.php?id=cctv1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1-备用" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1-备用
 http://lu1.cc/c/tv/php/migu.php?id=cctv1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="南昌移动",CCTV2
