@@ -285,8 +285,8 @@ https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="肥羊",东方财经
 https://live.goodiptv.club/api/cqyx.php?id=dfcj
-#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="肥羊",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://jihulab.com/owen2000wy/owentv/-/raw/main/zqpd.png" group-title="肥羊",足球频道
+http://ainm.cc/a/play/php/gehua.php?id=zqpd
 #EXTINF:-1,中华美食
 http://ainm.cc/a/play/php/gehua.php?id=zhms2
 #EXTINF:-1,中华特产

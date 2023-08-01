@@ -147,7 +147,7 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 东方财经,https://live.goodiptv.club/api/cqyx.php?id=dfcj
-足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+足球频道,http://ainm.cc/a/play/php/gehua.php?id=zqpd
 中华美食,http://ainm.cc/a/play/php/gehua.php?id=zhms2
 中华特产,http://ainm.cc/a/play/php/gehua.php?id=zhtc
 收藏天下,http://ainm.cc/a/play/php/gehua.php?id=sctx2
