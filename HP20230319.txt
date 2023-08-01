@@ -23,7 +23,7 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://ainm.cc/a/play/php/gehua.php?id=cctv17
 CCTV4K,http://ainm.cc/a/play/php/gehua.php?id=cctv4k
-CCTV4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 中国教育电视台,#genre#
@@ -47,16 +47,13 @@ CCTV央视台球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956
 CCTV电视指南HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV中视购物,https://live.goodiptv.club/api/cqyx.php?id=ysgw
 CCTV 卫生健康HD,https://live.goodiptv.club/api/yqgd.php?id=wsjk
-4k测试,#genre#
-4K1,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-4K2,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,#genre#
 CGTN-英语,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN-纪录,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN-西班牙语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN-法语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN-阿拉伯语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN-俄语,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN-纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN-西班牙语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN-法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN-阿拉伯语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+CGTN-俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 新华社,#genre#
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -76,6 +73,8 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 广西卫视,http://ainm.cc/a/play/php/gehua.php?id=gxws
 四川卫视,http://ainm.cc/a/play/php/gehua.php?id=scws
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+上海教育电视台,http://live.cooltv.top/tv/setv.php
+上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
@@ -87,9 +86,8 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-山东卫视,https://cntv.sbs/live?auth=2307100804&id=sdws
+山东卫视,http://lu1.cc/c/tv/sdtv/sdtv.php?id=sdtv
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-上海教育电视台,http://live.cooltv.top/tv/setv.php
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 陕西卫视,http://ainm.cc/a/play/php/gehua.php?id=sxws3
 江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
@@ -102,7 +100,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 新疆卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-厦门卫视,https://cntv.sbs/live?auth=2307100804&id=xmws
+厦门卫视,https://cntv.sbs/live?auth=2307280808&id=xmws
 云南卫视,http://ainm.cc/a/play/php/gehua.php?id=ynws3
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
@@ -113,8 +111,9 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,http://60.208.16.27:1505/gudou.php?id=1350_4500
 明珠台,http://60.208.16.27:1505/gudou.php?id=1351_4500
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰中文,https://cntv.sbs/fs?auth=2307280808&id=fhzw
+凤凰资讯,https://cntv.sbs/fs?auth=2307280808&id=fhzx
+凤凰香港,https://cntv.sbs/fs?auth=2307280808&id=fhhk
 中央娱乐台,#genre#
 CHC家庭影院,http://lu1.cc/c/tv/php/cqyx.php?id=chcjt
 CHC高清电影,http://ainm.cc/a/play/php/gehua.php?id=chcgq
@@ -129,18 +128,18 @@ CHC动作电影,http://lu1.cc/c/tv/php/cqyx.php?id=chcdz
 中央新影-中学生,https://live.goodiptv.club/api/cqyx.php?id=qicai
 环球奇观,https://live.goodiptv.club/api/cqyx.php?id=car
 其他娱乐台,#genre#
-欢笑剧场,https://cntv.sbs/live?auth=2307100804&id=hxjc
-劲爆体育,https://cntv.sbs/live?auth=2307100804&id=jbty
+欢笑剧场,https://cntv.sbs/live?auth=2307280808&id=hxjc
+劲爆体育,https://cntv.sbs/live?auth=2307280808&id=jbty
 快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-金鹰纪实,https://cntv.sbs/live?auth=2307100804&id=jyjs
+金鹰纪实,https://cntv.sbs/live?auth=2307280808&id=jyjs
 戏曲精选,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
 东方影视,http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
-五星体育,https://cntv.sbs/live?auth=2307100804&id=wxty
-新视觉,https://cntv.sbs/live?auth=2307100804&id=xsj
+五星体育,https://cntv.sbs/live?auth=2307280808&id=wxty
+新视觉,https://cntv.sbs/live?auth=2307280808&id=xsj
 卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-茶频道,https://cntv.sbs/live?auth=2307100804&id=cpd
-魅力足球,https://cntv.sbs/live?auth=2307100804&id=mlzq
-炫动卡通,https://cntv.sbs/live?auth=2307100804&id=hhxd
+茶频道,https://cntv.sbs/live?auth=2307280808&id=cpd
+魅力足球,https://cntv.sbs/live?auth=2307280808&id=mlzq
+炫动卡通,https://cntv.sbs/live?auth=2307280808&id=hhxd
 乐游,http://ainm.cc/a/play/php/gehua.php?id=ly2
 四海钓鱼,http://ainm.cc/a/play/php/gehua.php?id=shdy
 环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
@@ -160,6 +159,10 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 求索记录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
 金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
+法治天地,https://cntv.sbs/live?auth=2307280808&id=fztd
+金色学堂,https://cntv.sbs/live?auth=2307280808&id=jspd
+京视剧场,http://ainm.cc/a/play/php/gehua.php?id=jsjc
+置业频道,http://ainm.cc/a/play/php/gehua.php?id=zypd
 彩蛋-猫和老鼠,#genre#
 彩蛋-猫和老鼠直播间1,https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
 彩蛋-猫和老鼠直播间2,https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
@@ -179,7 +182,7 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 央广-CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 央广-CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 央广-CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-央广-CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+央广-CNR 台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 央广-CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 央广-CNR 大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 央广-CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8

@@ -46,7 +46,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 http://ainm.cc/a/play/php/gehua.php?id=cctv17
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="百事通",CCTV-4K
 http://ainm.cc/a/play/php/gehua.php?id=cctv4k
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="百事通",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K-1080P" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="百事通",CCTV-4K-1080P
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="爱尚源",中国教育1
@@ -93,23 +93,18 @@ https://live.goodiptv.club/api/cqyx.php?id=ysgw
 #EXTINF:-1,CCTV 卫生健康HD
 https://live.goodiptv.club/api/yqgd.php?id=wsjk
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱尚源",4K
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱尚源",4K
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN英语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN英语
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN纪录
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN西班牙语
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN法语
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN阿拉伯语
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="爱尚源",CGTN俄语
-http://61.160.152.68/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 group-title="百视通",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -144,6 +139,10 @@ http://ainm.cc/a/play/php/gehua.php?id=gxws
 http://ainm.cc/a/play/php/gehua.php?id=scws
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="爱尚源",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+#EXTINF:-1,上海教育电视台
+http://live.cooltv.top/tv/setv.php
+#EXTINF:-1,上视外语
+https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="爱尚源",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="爱尚源",浙江卫视
@@ -167,11 +166,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="爱尚源",吉林卫视
 https://live.goodiptv.club/api/cqyx.php?id=jilinHD
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="爱尚源",山东卫视
-https://cntv.sbs/live?auth=2307100804&id=sdws
+http://lu1.cc/c/tv/sdtv/sdtv.php?id=sdtv
 #EXTINF:-1,山东教育卫视
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-#EXTINF:-1,上海教育电视台
-http://live.cooltv.top/tv/setv.php
 #EXTINF:-1 group-title="百视通" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="肥羊",陕西卫视 标清
@@ -197,7 +194,7 @@ https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="爱尚源",东南卫视
 https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="肥羊",厦门卫视 标清
-https://cntv.sbs/live?auth=2307100804&id=xmws
+https://cntv.sbs/live?auth=2307280808&id=xmws
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="肥羊",云南卫视 标清
 http://ainm.cc/a/play/php/gehua.php?id=ynws3
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="爱尚源",贵州卫视
@@ -208,59 +205,22 @@ https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
 http://ainm.cc/a/play/php/gehua.php?id=hinws
 #EXTINF:-1,三沙卫视
 http://fc3e2a3dca763cf795139f3c5bfd8831.livehwc3.cn/pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1c4bdcf521b99167065fe6dc8a803ea8
+#EXTINF:-1,农林卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 group-title="境外" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="境外" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,农林卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1,翡翠台
 http://60.208.16.27:1505/gudou.php?id=1350_4500
 #EXTINF:-1,明珠台
 http://60.208.16.27:1505/gudou.php?id=1351_4500
 #EXTINF:-1,凤凰中文
-http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+https://cntv.sbs/fs?auth=2307280808&id=fhzw
 #EXTINF:-1,凤凰资讯
-http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场
-https://cntv.sbs/live?auth=2307100804&id=hxjc
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="百事通",劲爆体育
-https://cntv.sbs/live?auth=2307100804&id=jbty
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="百事通",快乐垂钓
-https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="爱尚源",金鹰纪实
-https://cntv.sbs/live?auth=2307100804&id=jyjs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",戏曲精选
-https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="百事通",东方影视
-http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="百事通",五星体育
-https://cntv.sbs/live?auth=2307100804&id=wxty
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="百事通",新视觉
-https://cntv.sbs/live?auth=2307100804&id=xsj
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="百事通",卡酷少儿
-https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1,金鹰卡通
-https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="百事通",茶频道
-https://cntv.sbs/live?auth=2307100804&id=cpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",魅力足球
-https://cntv.sbs/live?auth=2307100804&id=mlzq
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",炫动卡通
-https://cntv.sbs/live?auth=2307100804&id=hhxd
-#EXTINF:-1,tvg-id="" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="肥羊",乐游
-http://ainm.cc/a/play/php/gehua.php?id=ly2
-#EXTINF:-1,四海钓鱼
-http://ainm.cc/a/play/php/gehua.php?id=shdy
-#EXTINF:-1,环球旅游
-https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
-#EXTINF:-1,中华美食
-http://ainm.cc/a/play/php/gehua.php?id=zhms2
-#EXTINF:-1,收藏天下
-http://ainm.cc/a/play/php/gehua.php?id=sctx2
-#EXTINF:-1,中华特产
-http://ainm.cc/a/play/php/gehua.php?id=zhtc
+https://cntv.sbs/fs?auth=2307280808&id=fhzx
+#EXTINF:-1,凤凰香港
+https://cntv.sbs/fs?auth=2307280808&id=fhhk
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="爱尚源",CHC家庭影院
 http://lu1.cc/c/tv/php/cqyx.php?id=chcjt
@@ -268,32 +228,6 @@ http://lu1.cc/c/tv/php/cqyx.php?id=chcjt
 http://ainm.cc/a/play/php/gehua.php?id=chcgq
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="肥羊",CHC动作电影
 http://lu1.cc/c/tv/php/cqyx.php?id=chcdz
-
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="肥羊",都市剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="肥羊",动漫秀场
-https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="肥羊",游戏风云
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="肥羊",东方财经
-https://live.goodiptv.club/api/cqyx.php?id=dfcj
-#EXTINF:-1,上海纪实人文
-http://ainm.cc/a/play/php/gehua.php?id=jsrwhd
-#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="肥羊",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1,弈坛春秋
-http://ainm.cc/a/play/php/gehua.php?id=ytcq
-#EXTINF:-1,动感音乐
-http://ainm.cc/a/play/php/gehua.php?id=dgyy2
-#EXTINF:-1,百姓健康
-https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
-#EXTINF:-1,生态环境
-https://live.goodiptv.club/api/cqyx.php?id=shengtai
-#EXTINF:-1,求索记录
-https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-#EXTINF:-1,生活时尚
-https://live.goodiptv.club/api/cqyx.php?id=shenghuo
-
 #EXTINF:-1,摄影
 https://live.goodiptv.club/api/cqyx.php?id=sheying
 #EXTINF:-1,书画
@@ -312,6 +246,78 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3
 https://live.goodiptv.club/api/cqyx.php?id=qicai
 #EXTINF:-1,环球奇观
 https://live.goodiptv.club/api/cqyx.php?id=car
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场
+https://cntv.sbs/live?auth=2307280808&id=hxjc
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="百事通",劲爆体育
+https://cntv.sbs/live?auth=2307280808&id=jbty
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="百事通",快乐垂钓
+https://live.goodiptv.club/api/cqyx.php?id=klcdHD
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="爱尚源",金鹰纪实
+https://cntv.sbs/live?auth=2307280808&id=jyjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",戏曲精选
+https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="百事通",东方影视
+http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="百事通",五星体育
+https://cntv.sbs/live?auth=2307280808&id=wxty
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="百事通",新视觉
+https://cntv.sbs/live?auth=2307280808&id=xsj
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="百事通",卡酷少儿
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="百事通",茶频道
+https://cntv.sbs/live?auth=2307280808&id=cpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",魅力足球
+https://cntv.sbs/live?auth=2307280808&id=mlzq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",炫动卡通
+https://cntv.sbs/live?auth=2307280808&id=hhxd
+#EXTINF:-1,tvg-id="" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="肥羊",乐游
+http://ainm.cc/a/play/php/gehua.php?id=ly2
+#EXTINF:-1,四海钓鱼
+http://ainm.cc/a/play/php/gehua.php?id=shdy
+#EXTINF:-1,环球旅游
+https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="肥羊",都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="肥羊",动漫秀场
+https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="肥羊",游戏风云
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="肥羊",东方财经
+https://live.goodiptv.club/api/cqyx.php?id=dfcj
+#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="肥羊",足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1,中华美食
+http://ainm.cc/a/play/php/gehua.php?id=zhms2
+#EXTINF:-1,中华特产
+http://ainm.cc/a/play/php/gehua.php?id=zhtc
+#EXTINF:-1,收藏天下
+http://ainm.cc/a/play/php/gehua.php?id=sctx2
+#EXTINF:-1,上海纪实人文
+http://ainm.cc/a/play/php/gehua.php?id=jsrwhd
+#EXTINF:-1,弈坛春秋
+http://ainm.cc/a/play/php/gehua.php?id=ytcq
+#EXTINF:-1,动感音乐
+http://ainm.cc/a/play/php/gehua.php?id=dgyy2
+#EXTINF:-1,百姓健康
+https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
+#EXTINF:-1,生态环境
+https://live.goodiptv.club/api/cqyx.php?id=shengtai
+#EXTINF:-1,求索记录
+https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+#EXTINF:-1,生活时尚
+https://live.goodiptv.club/api/cqyx.php?id=shenghuo
+#EXTINF:-1,金鹰卡通
+https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
+#EXTINF:-1,法治天地
+https://cntv.sbs/live?auth=2307280808&id=fztd
+#EXTINF:-1,金色学堂
+https://cntv.sbs/live?auth=2307280808&id=jspd
+#EXTINF:-1,京视剧场
+http://ainm.cc/a/play/php/gehua.php?id=jsjc
+#EXTINF:-1,置业频道
+http://ainm.cc/a/play/php/gehua.php?id=zypd
+
 
 #EXTINF:-1,彩蛋-猫和老鼠直播间1
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/index.m3u8
@@ -346,7 +352,7 @@ http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1,radio=true,央广-CNR 经典音乐广播 101.8
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 中华之声
+#EXTINF:-1,radio=true,央广-CNR 台海之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1,radio=true,央广-CNR 神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
