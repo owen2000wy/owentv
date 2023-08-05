@@ -46,7 +46,7 @@ CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV中视购物,https://live.goodiptv.club/api/cqyx.php?id=ysgw
-CCTV 卫生健康,https://live.goodiptv.club/api/yqgd.php?id=wsjk
+CCTV卫生健康,https://live.goodiptv.club/api/yqgd.php?id=wsjk
 CGTN,#genre#
 CGTN英语,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
