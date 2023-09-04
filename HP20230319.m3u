@@ -91,7 +91,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
 https://live.goodiptv.club/api/cqyx.php?id=ysgw
 #EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
-https://live.goodiptv.club/api/yqgd.php?id=wsjk
+http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
 
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CGTN英语.png" group-title="CGTN",CGTN英语
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
@@ -117,19 +117,19 @@ http://ainm.cc/a/play/php/gehua.php?id=ghdshd
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京卫视.png" group-title="北京",北京卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京文艺.png" group-title="北京",北京文艺
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
+http://ainm.cc/a/play/php/gehua.php?id=bjwy
 #EXTINF:-1,tvg-id="北京科教BTV-3" tvg-name="北京纪实科教" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京纪实科教.png" group-title="北京",北京纪实科教
 https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京影视.png" group-title="北京",北京影视
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjys
+http://ainm.cc/a/play/php/gehua.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京财经.png" group-title="北京",北京财经
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjcj
+http://lu1.cc/c/tv/bjtv/btime.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京体育休闲.png" group-title="北京",北京体育休闲
 http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京生活.png" group-title="北京",北京生活
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjsh
+http://lu1.cc/c/tv/bjtv/btime.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京新闻.png" group-title="北京",北京新闻
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjxw
+http://ainm.cc/a/play/php/gehua.php?id=bjxw
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
@@ -140,9 +140,9 @@ http://ainm.cc/a/play/php/gehua.php?id=scws
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="卫视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 #EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海教育电视台.png" group-title="卫视",上海教育电视台
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+http://lu1.cc/c/tv/php/best.php?id=shjy
 #EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上视外语.png" group-title="卫视",上视外语
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+http://lu1.cc/c/tv/php/best.php?id=shics
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖南卫视.png" group-title="卫视",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/浙江卫视.png" group-title="卫视",浙江卫视
@@ -166,9 +166,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/吉林卫视.png" group-title="卫视",吉林卫视
 https://live.goodiptv.club/api/cqyx.php?id=jilinHD
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东卫视.png" group-title="卫视",山东卫视
-http://lu1.cc/c/tv/sdtv/sdtv.php?id=sdtv
+http://ainm.cc/a/play/php/gehua.php?id=sdhd
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东教育卫视.png" group-title="卫视",山东教育卫视
-https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+http://ainm.cc/a/play/php/gehua.php?id=sdjy2
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山西卫视.png" group-title="卫视",山西卫视
 http://lu1.cc/c/tv/sxitv/sxxl.php?id=sxws
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/陕西卫视.png" group-title="卫视",陕西卫视
@@ -218,9 +218,9 @@ http://lu1.cc/c/tv/php/gudou.php?id=mzt
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰中文.png" group-title="卫视",凤凰中文
 http://lu1.cc/c/tv/php/gudou.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰资讯.png" group-title="卫视",凤凰资讯
-http://lu1.cc/c/tv/gatv/fhtv.php?id=fhzx
+http://lu1.cc/c/tv/php/cqyx.php?id=fhzx
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰香港.png" group-title="卫视",凤凰香港
-https://cntv.sbs/tv/fhhk.php
+http://lu1.cc/c/tv/gatv/fhx2.php?id=fhhk&fmt=hls
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
 http://lu1.cc/c/tv/php/cqyx.php?id=chcjt
@@ -248,29 +248,29 @@ https://live.goodiptv.club/api/cqyx.php?id=qicai
 https://live.goodiptv.club/api/cqyx.php?id=car
 
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
-https://cntv.sbs/tv?auth=230813&id=hxjc
+https://cntv.sbs/tv?auth=230830&id=hxjc
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/劲爆体育.png" group-title="其他娱乐",劲爆体育
 http://ainm.cc/a/play/php/gehua.php?id=jbty
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/快乐垂钓.png" group-title="其他娱乐",快乐垂钓
 https://live.goodiptv.club/api/cqyx.php?id=klcdHD
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金鹰纪实.png" group-title="其他娱乐",金鹰纪实
-https://cntv.sbs/tv?auth=230813&id=jyjs
+https://cntv.sbs/tv?auth=230830&id=jyjs
 #EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/戏曲精选.png" group-title="其他娱乐",戏曲精选
-https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+http://lu1.cc/c/tv/php/best.php?id=xqjx
 #EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海东方影视.png" group-title="其他娱乐",上海东方影视
 http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
-https://cntv.sbs/tv?auth=230813&id=wxty
+https://cntv.sbs/tv?auth=230830&id=wxty
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/新视觉.png" group-title="其他娱乐",新视觉
-https://cntv.sbs/tv?auth=230813&id=xsj
+https://cntv.sbs/tv?auth=230830&id=xsj
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
-https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+http://lu1.cc/c/tv/bjtv/btime.php?id=bjkk
 #EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/茶频道.png" group-title="其他娱乐",茶频道
-https://cntv.sbs/tv?auth=230813&id=cpd
+https://cntv.sbs/tv?auth=230830&id=cpd
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/魅力足球.png" group-title="其他娱乐",魅力足球
-https://cntv.sbs/tv?auth=230813&id=mlzq
+https://cntv.sbs/tv?auth=230830&id=mlzq
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/炫动卡通.png" group-title="其他娱乐",炫动卡通
-https://cntv.sbs/tv?auth=230813&id=hhxd
+https://cntv.sbs/tv?auth=230830&id=hhxd
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/乐游.png" group-title="其他娱乐",乐游
 http://ainm.cc/a/play/php/gehua.php?id=ly2
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
@@ -310,9 +310,9 @@ https://live.goodiptv.club/api/cqyx.php?id=shenghuo
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
 https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/法治天地.png" group-title="其他娱乐",法治天地
-https://cntv.sbs/tv?auth=230813&id=fztd
+https://cntv.sbs/tv?auth=230830&id=fztd
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金色学堂.png" group-title="其他娱乐",金色学堂
-https://cntv.sbs/tv?auth=230813&id=jspd
+https://cntv.sbs/tv?auth=230830&id=jspd
 #EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/京视剧场.png" group-title="其他娱乐",京视剧场
 http://ainm.cc/a/play/php/gehua.php?id=jsjc
 #EXTINF:-1,tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/置业频道.png" group-title="其他娱乐",置业频道
@@ -323,7 +323,7 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/688999/live_8244646_5219019/inde
 #EXTINF:-1,tvg-id="猫和老鼠直播间2" tvg-name="猫和老鼠直播间2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间2.png" group-title="猫和老鼠",猫和老鼠直播间2
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/377372/live_2370062_9705826/index.m3u8
 #EXTINF:-1,tvg-id="猫和老鼠直播间3" tvg-name="猫和老鼠直播间3" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间3.png" group-title="猫和老鼠",猫和老鼠直播间3
-http://mmitv.top/pltv/huya.php?id=11352879
+https://epg.112114.xyz/huya/11352879
 #EXTINF:-1,tvg-id="猫和老鼠直播间4" tvg-name="猫和老鼠直播间4" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间4.png" group-title="猫和老鼠",猫和老鼠直播间4
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/117284/live_102365899_1721948_1500/index.m3u8
 
