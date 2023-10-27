@@ -327,91 +327,94 @@ https://epg.112114.xyz/huya/11352879
 #EXTINF:-1。tvg-id="猫和老鼠直播间4" tvg-name="猫和老鼠直播间4" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间4.png" group-title="猫和老鼠",猫和老鼠直播间4
 
 
-#EXTINF:-1,radio=true,国广-CRI 环球资讯广播 FM90.5
+#EXTINF:-1,tvg-id="CRI环球资讯广播" tvg-name="CRI环球资讯广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI环球资讯广播.png" group-title="国广" radio="true",CRI环球资讯广播
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1,radio=true,国广-CRI 中文环球广播
+#EXTINF:-1,tvg-id="CRI中文环球广播" tvg-name="CRI中文环球广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI中文环球广播.png" group-title="国广" radio="true",CRI中文环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1,radio=true,国广-CRI 海峡飞虹
+#EXTINF:-1,tvg-id="CRI海峡飞虹" tvg-name="CRI海峡飞虹" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI海峡飞虹.png" group-title="国广" radio="true",CRI海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1,radio=true,国广-CRI 南海之声
+#EXTINF:-1,tvg-id="CRI南海之声" tvg-name="CRI南海之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI南海之声.png" group-title="国广" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1,radio=true,国广-CRI Hit FM FM88.7
+#EXTINF:-1,tvg-id="CRI-HitFM" tvg-name="CRI-HitFM" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI-HitFM.png" group-title="国广" radio="true",CRI-HitFM
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1,radio=true,国广-CRI 轻松调频 FM91.5
+#EXTINF:-1,tvg-id="CRI轻松调频" tvg-name="CRI轻松调频" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI轻松调频.png" group-title="国广" radio="true",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,radio=true,国广-CRI Easy FM - FM91.5
+#EXTINF:-1,tvg-id="CRI-EasyFM" tvg-name="CRI-EasyFM" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI-EasyFM.png" group-title="国广" radio="true",CRI-EasyFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,radio=true,国广-CRI NEWS Plus AM846
+#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM846" tvg-name="CRI-NEWSPlus-AM846" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI-NEWSPlus-AM846.png" group-title="国广" radio="true",CRI-NEWSPlus-AM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1,radio=true,国广-CRI NEWS Plus AM1008
+#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM1008" tvg-name="CRI-NEWSPlus-AM1008" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CRI-NEWSPlus-AM1008.png" group-title="国广" radio="true",CRI-NEWSPlus-AM1008
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1,radio=true,央广-CNR 中国之声
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 经济之声
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 经典音乐广播 101.8
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 台海之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 大湾区之声
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 香港之声
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 民族之声
-http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 文艺之声
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 老年之声
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 中国乡村之声
-http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 哈语广播
-http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 藏语广播
-http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 维语广播
-http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 阅读之声
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 中国交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1,radio=true,央广-CNR 长江水上安全信息台 FM160.65
-http://ls.qingting.fm/live/2694923.m3u8
 
-#EXTINF:-1,radio=true,北京-北京新闻广播 FM100.6
+#EXTINF:-1,tvg-id="CNR中国之声" tvg-name="CNR中国之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR中国之声.png" group-title="央广" radio="true",CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR经济之声" tvg-name="CNR经济之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR经济之声.png" group-title="央广" radio="true",CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR音乐之声" tvg-name="CNR音乐之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR音乐之声.png" group-title="央广" radio="true",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR经典音乐广播" tvg-name="CNR经典音乐广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR经典音乐广播.png" group-title="央广" radio="true",CNR经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1,tvg-id="CNR台海之声" tvg-name="CNR台海之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR台海之声.png" group-title="央广" radio="true",CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR神州之声" tvg-name="CNR神州之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR神州之声.png" group-title="央广" radio="true",CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR大湾区之声" tvg-name="CNR大湾区之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR大湾区之声.png" group-title="央广" radio="true",CNR大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR香港之声" tvg-name="CNR香港之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR香港之声.png" group-title="央广" radio="true",CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR民族之声" tvg-name="CNR民族之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR民族之声.png" group-title="央广" radio="true",CNR民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR文艺之声" tvg-name="CNR文艺之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR文艺之声.png" group-title="央广" radio="true",CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR老年之声" tvg-name="CNR老年之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR老年之声.png" group-title="央广" radio="true",CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1,tvg-id="CNR中国乡村之声" tvg-name="CNR中国乡村之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR中国乡村之声.png" group-title="央广" radio="true",CNR中国乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1,tvg-id="CNR哈语广播" tvg-name="CNR哈语广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR哈语广播.png" group-title="央广" radio="true",CNR哈语广播
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1,tvg-id="CNR藏语广播" tvg-name="CNR藏语广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR藏语广播.png" group-title="央广" radio="true",CNR藏语广播
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1,tvg-id="CNR维语广播" tvg-name="CNR维语广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR维语广播.png" group-title="央广" radio="true",CNR维语广播
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1,tvg-id="CNR阅读之声" tvg-name="CNR阅读之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR阅读之声.png" group-title="央广" radio="true",CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1,tvg-id="CNR中国交通广播" tvg-name="CNR中国交通广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR中国交通广播.png" group-title="央广" radio="true",CNR中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1,tvg-id="CNR长江水上安全信息台" tvg-name="CNR长江水上安全信息台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNR长江水上安全信息台.png" group-title="央广" radio="true",CNR长江水上安全信息台
+http://ls.qingting.fm/live/2694923.m3u8
+#EXTINF:-1,tvg-id="CCTV13听电视" tvg-name="CCTV13听电视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13听电视.png" group-title="央广" radio="true",CCTV13听电视
+http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+
+#EXTINF:-1,tvg-id="北京新闻广播" tvg-name="北京新闻广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京新闻广播.png" group-title="北京广播" radio="true",北京新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1,radio=true,北京-北京城市广播 FM107.3
+#EXTINF:-1,tvg-id="北京城市广播" tvg-name="北京城市广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京城市广播.png" group-title="北京广播" radio="true",北京城市广播
 https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
-#EXTINF:-1,radio=true,北京-北京故事广播 AM603
-https://brtv-radiolive.rbc.cn/alive/am603.m3u8
-#EXTINF:-1,radio=true,北京-北京体育广播 FM102.5
+#EXTINF:-1,tvg-id="北京体育广播" tvg-name="北京体育广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京体育广播.png" group-title="北京广播" radio="true",北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-#EXTINF:-1,radio=true,北京-北京音乐广播 FM97.4
+#EXTINF:-1,tvg-id="北京音乐广播" tvg-name="北京音乐广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京音乐广播.png" group-title="北京广播" radio="true",北京音乐广播
 https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
-#EXTINF:-1,radio=true,北京-北京交通广播 FM103.9
+#EXTINF:-1,tvg-id="北京交通广播" tvg-name="北京交通广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京交通广播.png" group-title="北京广播" radio="true",北京交通广播
 https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-#EXTINF:-1,radio=true,北京-北京文艺广播 FM87.6
+#EXTINF:-1,tvg-id="北京文艺广播" tvg-name="北京文艺广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京文艺广播.png" group-title="北京广播" radio="true",北京文艺广播
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
-#EXTINF:-1,radio=true,北京-北京外语广播 AM774
-https://brtv-radiolive.rbc.cn/alive/fm923.m3u8
-#EXTINF:-1,radio=true,北京-北京青年广播 FM98.2
-https://brtv-radiolive.rbc.cn/alive/fm982.m3u8
-#EXTINF:-1,radio=true,北京-京津冀之声 FM100.6
+#EXTINF:-1,tvg-id="京津冀之声" tvg-name="京津冀之声" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/京津冀之声.png" group-title="北京广播" radio="true",京津冀之声
 https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
-#EXTINF:-1,radio=true,北京-北京房山经典音乐 FM96.9
+#EXTINF:-1,tvg-id="北京房山经典音乐" tvg-name="北京房山经典音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京房山经典音乐.png" group-title="北京广播" radio="true",北京房山经典音乐
 http://live.xmcdn.com/live/963/64.m3u8
-#EXTINF:-1,radio=true,北京-北京好音乐 FM95.9
+#EXTINF:-1,tvg-id="北京好音乐" tvg-name="北京好音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京好音乐.png" group-title="北京广播" radio="true",北京好音乐
 http://live.xmcdn.com/live/964/64.m3u8
-#EXTINF:-1,radio=true,北京-北京阳光调频 FM98.6
+#EXTINF:-1,tvg-id="北京阳光调频" tvg-name="北京阳光调频" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京阳光调频.png" group-title="北京广播" radio="true",北京阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
 
-#EXTINF:-1,radio=true,网络-萤火虫网络电台
+#EXTINF:-1,tvg-id="萤火虫网络电台" tvg-name="萤火虫网络电台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/萤火虫网络电台.png" group-title="网络" radio="true",萤火虫网络电台
 http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1,radio=true,网络-500首华语经典
+#EXTINF:-1,tvg-id="500首华语经典" tvg-name="500首华语经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/500首华语经典.png" group-title="网络" radio="true",500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-#EXTINF:-1,radio=true,央视-CCTV13
-http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1,tvg-id="明星FM" tvg-name="明星FM" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/明星FM.png" group-title="网络" radio="true",明星FM
+http://ls.qingting.fm/live/91019.m3u8
+#EXTINF:-1,tvg-id="爵士FM" tvg-name="爵士FM" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/爵士FM.png" group-title="网络" radio="true",爵士FM
+http://lhttp.qingting.fm/live/20207764/64k.mp3
+#EXTINF:-1,tvg-id="亚洲音乐台" tvg-name="亚洲音乐台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/亚洲音乐台.png" group-title="网络" radio="true",亚洲音乐台
+http://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1,tvg-id="听越剧" tvg-name="听越剧" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/听越剧.png" group-title="网络" radio="true",听越剧
+http://lhttp.qingting.fm/live/20500178/64k.mp3
