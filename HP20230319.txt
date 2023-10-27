@@ -173,7 +173,7 @@ CRI环球资讯广播,http://sk.cri.cn/905.m3u8
 CRI中文环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI海峡飞虹,http://sk.cri.cn/hxfh.m3u8
 CRI南海之声,http://sk.cri.cn/nhzs.m3u8
-CRI-Hit FM,http://sk.cri.cn/887.m3u8
+CRI-HitFM,http://sk.cri.cn/887.m3u8
 CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI-EasyFM,http://sk.cri.cn/915.m3u8
 CRI-NEWSPlus-AM846,http://sk.cri.cn/am846.m3u8
