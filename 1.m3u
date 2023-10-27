@@ -309,89 +309,91 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 #EXTINF:-1,猫和老鼠直播间1
 https://epg.112114.xyz/huya/11352879
-#EXTINF:-1,国广-CRI 环球资讯广播 FM90.5
+#EXTINF:-1,CRI环球资讯广播
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1,国广-CRI 中文环球广播
+#EXTINF:-1,CRI中文环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1,国广-CRI 海峡飞虹
+#EXTINF:-1,CRI海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1,国广-CRI 南海之声
+#EXTINF:-1,CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1,国广-CRI Hit FM FM88.7
+#EXTINF:-1,CRI-HitFM
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1,国广-CRI 轻松调频 FM91.5
+#EXTINF:-1,CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,国广-CRI Easy FM - FM91.5
+#EXTINF:-1,CRI-EasyFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,国广-CRI NEWS Plus AM846
+#EXTINF:-1,CRI-NEWSPlus-AM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1,国广-CRI NEWS Plus AM1008
+#EXTINF:-1,CRI-NEWSPlus-AM1008
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1,央广-CNR 中国之声
+#EXTINF:-1,CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1,央广-CNR 经济之声
+#EXTINF:-1,CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1,央广-CNR 音乐之声
+#EXTINF:-1,CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1,央广-CNR 经典音乐广播 101.8
+#EXTINF:-1,CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1,央广-CNR 台海之声
+#EXTINF:-1,CNR台海之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1,央广-CNR 神州之声
+#EXTINF:-1,CNR神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1,央广-CNR 大湾区之声
+#EXTINF:-1,CNR大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1,央广-CNR 香港之声
+#EXTINF:-1,CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1,央广-CNR 民族之声
+#EXTINF:-1,CNR民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1,央广-CNR 文艺之声
+#EXTINF:-1,CNR文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1,央广-CNR 老年之声
+#EXTINF:-1,CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1,央广-CNR 中国乡村之声
+#EXTINF:-1,CNR中国乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1,央广-CNR 哈语广播
+#EXTINF:-1,CNR哈语广播
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1,央广-CNR 藏语广播
+#EXTINF:-1,CNR藏语广播
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1,央广-CNR 维语广播
+#EXTINF:-1,CNR维语广播
 http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1,央广-CNR 阅读之声
+#EXTINF:-1,CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1,央广-CNR 中国交通广播
+#EXTINF:-1,CNR中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1,央广-CNR 长江水上安全信息台 FM160.65
+#EXTINF:-1,CNR长江水上安全信息台
 http://ls.qingting.fm/live/2694923.m3u8
-#EXTINF:-1,北京-北京新闻广播 FM100.6
-https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1,北京-北京城市广播 FM107.3
-https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
-#EXTINF:-1,北京-北京故事广播 AM603
-https://brtv-radiolive.rbc.cn/alive/am603.m3u8
-#EXTINF:-1,北京-北京体育广播 FM102.5
-https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-#EXTINF:-1,北京-北京音乐广播 FM97.4
-https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
-#EXTINF:-1,北京-北京交通广播 FM103.9
-https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-#EXTINF:-1,北京-北京文艺广播 FM87.6
-https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
-#EXTINF:-1,北京-北京外语广播 AM774
-https://brtv-radiolive.rbc.cn/alive/fm923.m3u8
-#EXTINF:-1,北京-北京青年广播 FM98.2
-https://brtv-radiolive.rbc.cn/alive/fm982.m3u8
-#EXTINF:-1,北京-京津冀之声 FM100.6
-https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
-#EXTINF:-1,北京-北京房山经典音乐 FM96.9
-http://live.xmcdn.com/live/963/64.m3u8
-#EXTINF:-1,北京-北京好音乐 FM95.9
-http://live.xmcdn.com/live/964/64.m3u8
-#EXTINF:-1,北京-北京阳光调频 FM98.6
-http://ls.qingting.fm/live/2507637.m3u8
-#EXTINF:-1,网络-萤火虫网络电台
-http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1,网络-500首华语经典
-http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-#EXTINF:-1,央视-CCTV13
+#EXTINF:-1,CCTV13听电视
 http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1,北京新闻广播
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1,北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1,北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1,北京音乐广播
+https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1,北京交通广播
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1,北京文艺广播
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1,京津冀之声
+https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
+#EXTINF:-1,北京房山经典音乐
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1,北京好音乐
+http://live.xmcdn.com/live/964/64.m3u8
+#EXTINF:-1,北京阳光调频
+http://ls.qingting.fm/live/2507637.m3u8
+#EXTINF:-1,萤火虫网络电台
+http://211.149.226.193:8066/1022.mp3
+#EXTINF:-1,500首华语经典
+http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+#EXTINF:-1,明星FM
+http://ls.qingting.fm/live/91019.m3u8
+#EXTINF:-1,爵士FM
+http://lhttp.qingting.fm/live/20207764/64k.mp3
+#EXTINF:-1,亚洲音乐台
+http://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1,听越剧
+http://lhttp.qingting.fm/live/20500178/64k.mp3
