@@ -23,13 +23,13 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV7.png" group-title="央视",CCTV7
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8.png" group-title="央视",CCTV8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV9.png" group-title="央视",CCTV9
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV10.png" group-title="央视",CCTV10
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV11.png" group-title="央视",CCTV11
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225776/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV12.png" group-title="央视",CCTV12
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13
@@ -45,9 +45,11 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K
-http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV4K-1080P" tvg-name="CCTV4K-1080P" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K-1080P
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
 https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
@@ -117,19 +119,19 @@ http://lu1.cc/tv/php/gehua2.php?id=ghdshd
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京卫视.png" group-title="北京",北京卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺.png" group-title="北京",北京文艺
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjwy
+http://lu1.cc/tv/bjtv/btime.php?id=bjwy
 #EXTINF:-1,tvg-id="北京科教BTV-3" tvg-name="北京纪实科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京纪实科教.png" group-title="北京",北京纪实科教
 https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京影视.png" group-title="北京",北京影视
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjys
+http://lu1.cc/tv/bjtv/btime.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京财经.png" group-title="北京",北京财经
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjcj
+http://lu1.cc/tv/bjtv/btime.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育休闲.png" group-title="北京",北京体育休闲
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjty
+http://lu1.cc/tv/bjtv/btime.php?id=bjty
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京生活.png" group-title="北京",北京生活
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjsh
+http://lu1.cc/tv/bjtv/btime.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻.png" group-title="北京",北京新闻
-http://ainm.cc/tv/jsnm/bjtv/btime.php?id=bjxw
+http://lu1.cc/tv/bjtv/btime.php?id=bjxw
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
@@ -168,9 +170,9 @@ https://live.goodiptv.club/api/cqyx.php?id=jilinHD
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东卫视.png" group-title="卫视",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东教育卫视.png" group-title="卫视",山东教育卫视
-https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山西卫视.png" group-title="卫视",山西卫视
-http://ainm.cc/tv/jsnm/sxitv/sxxl.php?id=sxws
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西卫视.png" group-title="卫视",陕西卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江西卫视.png" group-title="卫视",江西卫视
@@ -186,7 +188,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/西藏卫视.png" group-title="卫视",西藏卫视
-http://ainm.cc/tv/jsnm/xztv/xzxl.php?id=xzws
+http://lu1.cc/tv/xztv/xzxl.php?id=xzws
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新疆卫视.png" group-title="卫视",新疆卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重庆卫视.png" group-title="卫视",重庆卫视
@@ -223,11 +225,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 http://php.17186.eu.org/phtv/fhhk.m3u8
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
-http://ainm.cc/tv/jsnm/php/cqyx.php?id=chcjt
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC高清电影.png" group-title="中央娱乐",CHC高清电影
-http://ainm.cc/tv/jsnm/php/cqyx.php?id=chcgq
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
-http://ainm.cc/tv/jsnm/php/cqyx.php?id=chcdz
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/摄影.png" group-title="中央娱乐",摄影
 https://live.goodiptv.club/api/cqyx.php?id=sheying
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/书画.png" group-title="中央娱乐",书画
@@ -331,6 +333,8 @@ https://epg.112114.xyz/huya/11352879
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1,tvg-id="CRI中文环球广播" tvg-name="CRI中文环球广播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI中文环球广播.png" group-title="国广" radio="true",CRI中文环球广播
 http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,tvg-id="CRI世界华声广播" tvg-name="CRI世界华声广播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI世界华声广播.png" group-title="国广" radio="true",CRI世界华声广播
+https://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1,tvg-id="CRI海峡飞虹" tvg-name="CRI海峡飞虹" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI海峡飞虹.png" group-title="国广" radio="true",CRI海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1,tvg-id="CRI南海之声" tvg-name="CRI南海之声" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI南海之声.png" group-title="国广" radio="true",CRI南海之声
