@@ -24,7 +24,7 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
 中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 中国教育电视台,#genre#

@@ -49,7 +49,7 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV4K-1080P" tvg-name="CCTV4K-1080P" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K-1080P
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
 https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
