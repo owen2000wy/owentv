@@ -48,7 +48,7 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1,CCTV4K-1080P
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 #EXTINF:-1,CCTV8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1,中国天气
 https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 #EXTINF:-1,中国交通
