@@ -7,7 +7,7 @@ CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122619
 CCTV4欧洲,http://ainm.cc/a/play/php/migu.php?id=cctv4o
 CCTV4美洲,http://ainm.cc/a/play/php/migu.php?id=cctv4a
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5﹢,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8

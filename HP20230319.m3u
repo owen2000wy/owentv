@@ -16,7 +16,7 @@ http://ainm.cc/a/play/php/migu.php?id=cctv4o
 http://ainm.cc/a/play/php/migu.php?id=cctv4a
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5.png" group-title="央视",CCTV5
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5﹢.png" group-title="央视",CCTV5+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5+.png" group-title="央视",CCTV5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV6.png" group-title="央视",CCTV6
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
