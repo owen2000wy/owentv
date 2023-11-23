@@ -47,16 +47,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视",CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV4K-1080P" tvg-name="CCTV4K-1080P" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视",CCTV4K-1080P
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+http://cfss.cc/api/ysp/cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视",CCTV8K
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
+http://cfss.cc/api/ysp/cctv8k.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国天气.png" group-title="央视",中国天气
 https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国交通.png" group-title="央视",中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育1.png" group-title="中国教育",中国教育1
-https://live.goodiptv.club/api/cqyx.php?id=cetv-1SD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育2.png" group-title="中国教育",中国教育2
 http://txylivehd.centv.cn/guoma/tsytk.m3u8
 #EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育3.png" group-title="中国教育",中国教育3
@@ -93,7 +93,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
 https://live.goodiptv.club/api/cqyx.php?id=ysgw
 #EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
+http://cfss.cc/api/ysp/wsjk.m3u8
 
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CGTN英语.png" group-title="CGTN",CGTN英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
@@ -136,9 +136,9 @@ http://lu1.cc/tv/bjtv/btime.php?id=bjxw
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/广西卫视.png" group-title="卫视",广西卫视
-https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四川卫视.png" group-title="卫视",四川卫视
-https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="卫视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 #EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海教育电视台.png" group-title="卫视",上海教育电视台
@@ -150,7 +150,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/浙江卫视.png" group-title="卫视",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/天津卫视.png" group-title="卫视",天津卫视
-https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/安徽卫视.png" group-title="卫视",安徽卫视
@@ -158,7 +158,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://live.goodiptv.club/api/cqyx.php?id=neimengkuSD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/广东卫视.png" group-title="卫视",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/深圳卫视.png" group-title="卫视",深圳卫视
@@ -166,7 +166,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖北卫视.png" group-title="卫视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/吉林卫视.png" group-title="卫视",吉林卫视
-https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东卫视.png" group-title="卫视",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东教育卫视.png" group-title="卫视",山东教育卫视
@@ -176,35 +176,35 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/陕西卫视.png" group-title="卫视",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江西卫视.png" group-title="卫视",江西卫视
-https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/河南卫视.png" group-title="卫视",河南卫视
-https://live.goodiptv.club/api/cqyx.php?id=henanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/河北卫视.png" group-title="卫视",河北卫视
-https://live.goodiptv.club/api/cqyx.php?id=hebeiSD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/西藏卫视.png" group-title="卫视",西藏卫视
-http://lu1.cc/tv/xztv/xzxl.php?id=xzws
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/新疆卫视.png" group-title="卫视",新疆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重庆卫视.png" group-title="卫视",重庆卫视
-https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东南卫视.png" group-title="卫视",东南卫视
-https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/厦门卫视.png" group-title="卫视",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/云南卫视.png" group-title="卫视",云南卫视
-https://live.goodiptv.club/api/cqyx.php?id=yunnanSD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/贵州卫视.png" group-title="卫视",贵州卫视
-https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/兵团卫视.png" group-title="卫视",兵团卫视
-https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/海南卫视.png" group-title="卫视",海南卫视
-https://live.goodiptv.club/api/cqyx.php?id=hainanSD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/三沙卫视.png" group-title="卫视",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/陕西农林卫视.png" group-title="卫视",陕西农林卫视
