@@ -74,7 +74,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-上海教育电视台,http://lu1.cc/tv/shtv/shjy.php
+上海教育电视台,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上视外语,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000001&livemode=1&stbId=3
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8

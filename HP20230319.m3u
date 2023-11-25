@@ -142,7 +142,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="卫视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 #EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海教育电视台.png" group-title="卫视",上海教育电视台
-http://lu1.cc/tv/shtv/shjy.php
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上视外语.png" group-title="卫视",上视外语
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000001&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖南卫视.png" group-title="卫视",湖南卫视
