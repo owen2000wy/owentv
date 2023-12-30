@@ -3,7 +3,7 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1备用
-http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2_md.m3u8
+http://ainm.cc/a/play/php/migu.php?id=cctv1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV2.png" group-title="央视",CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV3.png" group-title="央视",CCTV3
@@ -45,26 +45,26 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV17.png" group-title="央视",CCTV17
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视",CCTV4K
-https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+http://117.59.80.3/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K-1080P" tvg-name="CCTV4K-1080P" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视",CCTV4K-1080P
 http://cfss.cc/api/ysp/cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视",CCTV8K
 http://cfss.cc/api/ysp/cctv8k.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国天气.png" group-title="央视",中国天气
-https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
+http://117.59.80.3/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国交通.png" group-title="央视",中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育1.png" group-title="中国教育",中国教育1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育2.png" group-title="中国教育",中国教育2
-http://txylivehd.centv.cn/guoma/tsytk.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 #EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育3.png" group-title="中国教育",中国教育3
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育4.png" group-title="中国教育",中国教育4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/早期教育.png" group-title="中国教育",早期教育
-https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+http://117.59.80.3/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
@@ -91,7 +91,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
-https://live.goodiptv.club/api/cqyx.php?id=ysgw
+http://117.59.80.3/__cl/cg:live/__c/ysgw/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
 http://cfss.cc/api/ysp/wsjk.m3u8
 
@@ -120,8 +120,8 @@ http://lu1.cc/tv/php/gehua2.php?id=ghdshd
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京文艺.png" group-title="北京",北京文艺
 http://lu1.cc/tv/bjtv/btime.php?id=bjwy
-#EXTINF:-1,tvg-id="北京科教BTV-3" tvg-name="北京纪实科教" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京纪实科教.png" group-title="北京",北京纪实科教
-https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京纪实科教.png" group-title="北京",北京纪实科教
+http://117.59.80.3/__cl/cg:live/__c/bjayjsSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京影视.png" group-title="北京",北京影视
 http://lu1.cc/tv/bjtv/btime.php?id=bjys
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京财经.png" group-title="北京",北京财经
@@ -131,7 +131,7 @@ http://lu1.cc/tv/bjtv/btime.php?id=bjty
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京生活.png" group-title="北京",北京生活
 http://lu1.cc/tv/bjtv/btime.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京新闻.png" group-title="北京",北京新闻
-http://lu1.cc/tv/bjtv/btime.php?id=bjxw
+http://live.funhillrm.com/5/sd/live.m3u8
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
@@ -142,9 +142,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="卫视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 #EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海教育电视台.png" group-title="卫视",上海教育电视台
-https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上视外语.png" group-title="卫视",上视外语
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000001&livemode=1&stbId=3
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/wypdhd/1300000/mnf.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖南卫视.png" group-title="卫视",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/浙江卫视.png" group-title="卫视",浙江卫视
@@ -170,7 +170,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东卫视.png" group-title="卫视",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东教育卫视.png" group-title="卫视",山东教育卫视
-https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
+http://117.59.80.3/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山西卫视.png" group-title="卫视",山西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/陕西卫视.png" group-title="卫视",陕西卫视
@@ -214,15 +214,15 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/香港卫视.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/翡翠台.png" group-title="卫视",翡翠台
-http://lu1.cc/tv/php/gudou.php?id=fct
+http://r.jdshipin.com/qClQf
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/明珠台.png" group-title="卫视",明珠台
-http://lu1.cc/tv/php/gudou.php?id=mzt
+http://120.236.57.77:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰中文.png" group-title="卫视",凤凰中文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰资讯.png" group-title="卫视",凤凰资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰香港.png" group-title="卫视",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -231,70 +231,70 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/摄影.png" group-title="中央娱乐",摄影
-https://live.goodiptv.club/api/cqyx.php?id=sheying
+http://117.59.80.3/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/书画.png" group-title="中央娱乐",书画
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/国学.png" group-title="中央娱乐",国学
-https://live.goodiptv.club/api/cqyx.php?id=guoxue
+http://117.59.80.3/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/天元围棋.png" group-title="中央娱乐",天元围棋
-https://live.goodiptv.club/api/cqyx.php?id=weiqi
+http://117.59.80.3/__cl/cg:live/__c/weiqi/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/汽摩.png" group-title="中央娱乐",汽摩
-https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
+http://117.59.80.3/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/发现之旅.png" group-title="中央娱乐",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/老故事.png" group-title="中央娱乐",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中学生.png" group-title="中央娱乐",中学生
-https://live.goodiptv.club/api/cqyx.php?id=qicai
+http://117.59.80.3/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/环球奇观.png" group-title="中央娱乐",环球奇观
-https://live.goodiptv.club/api/cqyx.php?id=car
+http://117.59.80.3/__cl/cg:live/__c/car/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/劲爆体育.png" group-title="其他娱乐",劲爆体育
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/快乐垂钓.png" group-title="其他娱乐",快乐垂钓
-https://live.goodiptv.club/api/cqyx.php?id=klcdHD
+http://117.59.80.3/__cl/cg:live/__c/klcdHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金鹰纪实.png" group-title="其他娱乐",金鹰纪实
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/戏曲精选.png" group-title="其他娱乐",戏曲精选
-http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海东方影视.png" group-title="其他娱乐",上海东方影视
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/新视觉.png" group-title="其他娱乐",新视觉
-http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
 #EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/茶频道.png" group-title="其他娱乐",茶频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/魅力足球.png" group-title="其他娱乐",魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+http://117.59.80.3/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/炫动卡通.png" group-title="其他娱乐",炫动卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226213/1.m3u8
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/乐游.png" group-title="其他娱乐",乐游
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
-https://live.goodiptv.club/api/cqyx.php?id=diaoyu
+http://117.59.80.3/__cl/cg:live/__c/diaoyu/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/环球旅游.png" group-title="其他娱乐",环球旅游
-https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
+http://117.59.80.3/__cl/cg:live/__c/huanqiulvyou/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/都市剧场.png" group-title="其他娱乐",都市剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/动漫秀场.png" group-title="其他娱乐",动漫秀场
-https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+http://117.59.80.3/__cl/cg:live/__c/huanqiulvyou/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/游戏风云.png" group-title="其他娱乐",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方财经.png" group-title="其他娱乐",东方财经
-https://live.goodiptv.club/api/cqyx.php?id=dfcj
+http://117.59.80.3/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/足球频道.png" group-title="其他娱乐",足球频道
 http://lu1.cc/tv/php/gehua.php?id=zqpd
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中华美食.png" group-title="其他娱乐",中华美食
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中华特产.png" group-title="其他娱乐",中华特产
-https://live.goodiptv.club/api/cqyx.php?id=techan
+http://117.59.80.3/__cl/cg:live/__c/techan/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/收藏天下.png" group-title="其他娱乐",收藏天下
-https://live.goodiptv.club/api/cqyx.php?id=soucang
+http://117.59.80.3/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海纪实人文.png" group-title="其他娱乐",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1,tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/弈坛春秋.png" group-title="其他娱乐",弈坛春秋
@@ -302,26 +302,26 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 #EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/动感音乐.png" group-title="其他娱乐",动感音乐
 http://lu1.cc/tv/php/gehua.php?id=dgyy
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/百姓健康.png" group-title="其他娱乐",百姓健康
-https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
+http://117.59.80.3/__cl/cg:live/__c/jiankangSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/生态环境.png" group-title="其他娱乐",生态环境
-https://live.goodiptv.club/api/cqyx.php?id=shengtai
+http://117.59.80.3/__cl/cg:live/__c/shengtai/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/求索记录.png" group-title="其他娱乐",求索记录
-https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+http://117.59.80.3/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/生活时尚.png" group-title="其他娱乐",生活时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+http://117.59.80.3/__cl/cg:live/__c/shenghuo/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/法治天地.png" group-title="其他娱乐",法治天地
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+http://117.59.80.3/__cl/cg:live/__c/fazhi/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金色学堂.png" group-title="其他娱乐",金色学堂
-https://live.goodiptv.club/api/cqyx.php?id=jinse
+http://117.59.80.3/__cl/cg:live/__c/jinse/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/京视剧场.png" group-title="其他娱乐",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 #EXTINF:-1,tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/置业频道.png" group-title="其他娱乐",置业频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
-#EXTINF:-1,tvg-id="猫和老鼠直播间1" tvg-name="猫和老鼠直播间1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间1.png" group-title="猫和老鼠",彩蛋-猫和老鼠直播间1
-https://epg.112114.xyz/huya/11352879
+#EXTINF:-1。tvg-id="猫和老鼠直播间1" tvg-name="猫和老鼠直播间1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间1.png" group-title="猫和老鼠",彩蛋-猫和老鼠直播间1
+
 #EXTINF:-1。tvg-id="猫和老鼠直播间2" tvg-name="猫和老鼠直播间2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间2.png" group-title="猫和老鼠",猫和老鼠直播间2
 
 #EXTINF:-1。tvg-id="猫和老鼠直播间3" tvg-name="猫和老鼠直播间3" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/猫和老鼠直播间3.png" group-title="猫和老鼠",猫和老鼠直播间3
