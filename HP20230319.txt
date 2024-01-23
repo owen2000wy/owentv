@@ -83,7 +83,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 深圳卫视,http://117.59.80.3/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 湖北卫视,http://117.59.80.3/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 吉林卫视,http://117.59.80.3/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-山东卫视,http://60.205.114.16/ysp/sdws.m3u8
+山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/a63888fabf-0-0-52521a7a5e7728912570c392735f05d5/index.m3u8
 山东教育卫视,http://117.59.80.3/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 山西卫视,http://117.59.80.3/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 陕西卫视,https://iptv.luas.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/7b8c154c8a-0-0-202e7bd0ec56e02b3194a651115d2c00/index.m3u8
