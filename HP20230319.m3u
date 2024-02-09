@@ -52,6 +52,8 @@ http://159.75.85.63:8654/xx8k50fps.php
 http://117.59.80.3/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国交通.png" group-title="央视",中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="央视",重温经典
+http://117.59.80.3/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育1.png" group-title="中国教育",中国教育1
 http://117.59.80.3/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8

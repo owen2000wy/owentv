@@ -25,6 +25,7 @@ CCTV4K,http://117.59.80.3/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 中国天气,http://117.59.80.3/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
+重温经典,http://117.59.80.3/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
 中国教育电视台,#genre#
 中国教育1,http://117.59.80.3/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8
 中国教育2,http://121.19.134.245:808/tsfile/live/1038_1.m3u8
