@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1
-http://58.39.132.12:4022/udp/239.45.3.145:5140
+http://58.32.40.211:4022/udp/239.45.3.145:5140
 #EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1备用
 http://125.82.241.78:40000/rtp/235.254.198.1:1280
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV2.png" group-title="央视",CCTV2
@@ -49,7 +49,7 @@ http://113.68.179.47:4022/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国天气.png" group-title="央视",中国天气
-http://58.39.132.12:4022/udp/239.45.1.47:5140
+http://58.32.40.211:4022/udp/239.45.1.47:5140
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国交通.png" group-title="央视",中国交通
 http://114.253.78.248:8686/rtp/239.3.1.188:8001
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="央视",重温经典
@@ -91,7 +91,7 @@ http://61.185.200.213:55555/rtp/239.111.205.70:5140
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
 http://117.43.81.177:9999/udp/239.252.219.97:5140
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
-http://58.39.132.12:4022/udp/239.45.3.79:5140
+http://58.32.40.211:4022/udp/239.45.3.79:5140
 #EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
 http://36.49.54.144:8800/rtp/239.37.0.229:5540
 
@@ -118,7 +118,7 @@ http://125.82.241.78:40000/rtp/235.254.198.66:1540
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京文艺.png" group-title="北京",北京文艺
 http://114.253.78.248:8686/rtp/239.3.1.242:8000
 #EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京纪实科教.png" group-title="北京",北京纪实科教
-http://58.39.132.12:4022/udp/239.45.1.14:5140
+http://58.32.40.211:4022/udp/239.45.1.14:5140
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京影视.png" group-title="北京",北京影视
 http://114.253.78.248:8686/rtp/239.3.1.158:8000
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京财经.png" group-title="北京",北京财经
@@ -143,7 +143,7 @@ http://125.82.241.78:40000/rtp/235.254.198.73:1568
 #EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海教育电视台.png" group-title="卫视",上海教育电视台
 http://180.158.146.27:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上视外语.png" group-title="卫视",上视外语
-http://58.39.132.12:4022/udp/239.45.1.127:5140
+http://58.32.40.211:4022/udp/239.45.1.127:5140
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖南卫视.png" group-title="卫视",湖南卫视
 http://125.82.241.78:40000/rtp/235.254.198.62:1524
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/浙江卫视.png" group-title="卫视",浙江卫视
@@ -201,7 +201,7 @@ http://125.82.241.78:40000/rtp/235.254.198.25:1376
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/贵州卫视.png" group-title="卫视",贵州卫视
 http://125.82.241.78:40000/rtp/235.254.198.30:1396
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/兵团卫视.png" group-title="卫视",兵团卫视
-http://58.39.132.12:4022/udp/239.45.1.117:5140
+http://58.32.40.211:4022/udp/239.45.1.117:5140
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/海南卫视.png" group-title="卫视",海南卫视
 http://125.82.241.78:40000/rtp/235.254.198.44:1452
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/三沙卫视.png" group-title="卫视",三沙卫视
@@ -247,7 +247,7 @@ http://27.184.175.141:4022/rtp/239.254.200.113:6243
 http://27.184.175.141:4022/rtp/239.254.200.105:6238
 
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
-http://58.39.132.12:4022/udp/239.45.3.196:5140
+http://58.32.40.211:4022/udp/239.45.3.196:5140
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/劲爆体育.png" group-title="其他娱乐",劲爆体育
 http://60.223.255.143:8800/hls/54/index.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/快乐垂钓.png" group-title="其他娱乐",快乐垂钓
@@ -257,9 +257,9 @@ http://117.43.81.177:9999/udp/239.252.220.155:5140
 #EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/戏曲精选.png" group-title="其他娱乐",戏曲精选
 http://110.191.246.220:8888/udp/239.93.0.144:5140
 #EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海东方影视.png" group-title="其他娱乐",上海东方影视
-http://58.39.132.12:4022/udp/239.45.3.237:5140
+http://58.32.40.211:4022/udp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
-http://58.39.132.12:4022/udp/239.45.3.210:5140
+http://58.32.40.211:4022/udp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/新视觉.png" group-title="其他娱乐",新视觉
 http://220.184.151.162:8888/rtp/233.50.201.244:5140
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
@@ -269,19 +269,19 @@ http://117.43.81.177:9999/udp/239.252.220.160:5140
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/魅力足球.png" group-title="其他娱乐",魅力足球
 http://223.12.5.104:8082/udp/239.1.1.75:8075
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/炫动卡通.png" group-title="其他娱乐",炫动卡通
-http://58.39.132.12:4022/udp/239.45.1.55:5140
+http://58.32.40.211:4022/udp/239.45.1.55:5140
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/乐游.png" group-title="其他娱乐",乐游
-http://58.39.132.12:4022/udp/239.45.3.135:5140
+http://58.32.40.211:4022/udp/239.45.3.135:5140
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/环球旅游.png" group-title="其他娱乐",环球旅游
 http://27.184.175.141:4022/rtp/239.254.201.161:6264
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/都市剧场.png" group-title="其他娱乐",都市剧场
-http://58.39.132.12:4022/udp/239.45.3.136:5140
+http://58.32.40.211:4022/udp/239.45.3.136:5140
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/动漫秀场.png" group-title="其他娱乐",动漫秀场
-http://58.39.132.12:4022/udp/239.45.3.134:5140
+http://58.32.40.211:4022/udp/239.45.3.134:5140
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/游戏风云.png" group-title="其他娱乐",游戏风云
-http://58.39.132.12:4022/udp/239.45.3.131:5140
+http://58.32.40.211:4022/udp/239.45.3.131:5140
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方财经.png" group-title="其他娱乐",东方财经
 http://113.24.136.82:8082/udp/239.1.1.85:8085
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/足球频道.png" group-title="其他娱乐",足球频道
@@ -293,7 +293,7 @@ http://27.184.175.141:4022/rtp/239.254.201.184:6263
 #EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/收藏天下.png" group-title="其他娱乐",收藏天下
 http://117.190.144.101:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海纪实人文.png" group-title="其他娱乐",上海纪实人文
-http://58.39.132.12:4022/udp/239.45.3.212:5140
+http://58.32.40.211:4022/udp/239.45.3.212:5140
 #EXTINF:-1,tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/弈坛春秋.png" group-title="其他娱乐",弈坛春秋
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/动感音乐.png" group-title="其他娱乐",动感音乐
@@ -305,13 +305,13 @@ http://202.99.135.54:8888/rtp/239.253.93.245:6423
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/求索记录.png" group-title="其他娱乐",求索记录
 http://183.238.248.83:9000/udp/239.21.0.118:3816
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/生活时尚.png" group-title="其他娱乐",生活时尚
-http://58.39.132.12:4022/udp/239.45.3.132:5140
+http://58.32.40.211:4022/udp/239.45.3.132:5140
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
 http://61.185.200.213:55555/rtp/239.112.205.136:5140
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/法治天地.png" group-title="其他娱乐",法治天地
-http://58.39.132.12:4022/udp/239.45.1.46:5140
+http://58.32.40.211:4022/udp/239.45.1.46:5140
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/金色学堂.png" group-title="其他娱乐",金色学堂
-http://58.39.132.12:4022/udp/239.45.1.118:5140
+http://58.32.40.211:4022/udp/239.45.1.118:5140
 #EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/京视剧场.png" group-title="其他娱乐",京视剧场
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/置业频道.png" group-title="其他娱乐",置业频道
