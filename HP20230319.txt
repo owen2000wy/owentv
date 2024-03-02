@@ -197,11 +197,11 @@ CCTV13听电视,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 北京交通广播,https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
 北京文艺广播,https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
 京津冀之声,https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
-北京房山经典音乐,http://live.xmcdn.com/live/963/64.m3u8
+北京房山经典音乐,http://ls.qingting.fm/live/68746.m3u8
 北京好音乐,http://live.xmcdn.com/live/964/64.m3u8
 北京阳光调频,http://ls.qingting.fm/live/2507637.m3u8
 网络广播,#genre#
-萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
+萤火虫网络电台,https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 明星FM,http://ls.qingting.fm/live/91019.m3u8
 爵士FM,http://lhttp.qingting.fm/live/20207764/64k.mp3
