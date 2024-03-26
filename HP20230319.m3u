@@ -64,7 +64,7 @@ http://1.202.10.117:8888/udp/225.1.8.194:4120
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育4.png" group-title="中国教育",中国教育4
 http://1.83.163.63:8888/rtp/239.109.205.49:8328
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/早期教育.png" group-title="中国教育",早期教育
-http://121.29.90.139:7077/rtp/239.253.92.39:6107
+http://120.11.62.207:4000/rtp/239.253.92.39:6107
 
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
 http://1.83.163.63:8888/rtp/239.111.205.65:5140
@@ -232,19 +232,19 @@ http://1.83.163.63:8888/rtp/239.112.205.207:5140
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/书画.png" group-title="中央娱乐",书画
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/国学.png" group-title="中央娱乐",国学
-http://121.29.90.139:7077/rtp/239.253.92.158:8071
+http://120.11.62.207:4000/rtp/239.253.92.158:8071
 #EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/天元围棋.png" group-title="中央娱乐",天元围棋
-http://121.29.90.139:7077/rtp/239.253.93.211:6389
+http://120.11.62.207:4000/rtp/239.253.93.211:6389
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/汽摩.png" group-title="中央娱乐",汽摩
 http://125.82.241.109:40000/rtp/235.254.196.221:1156
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/发现之旅.png" group-title="中央娱乐",发现之旅
 http://113.24.136.82:8082/udp/239.1.1.103:8103
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/老故事.png" group-title="中央娱乐",老故事
-http://121.29.90.139:7077/rtp/239.253.92.132:8068
+http://120.11.62.207:4000/rtp/239.253.92.132:8068
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中学生.png" group-title="中央娱乐",中学生
-http://121.29.90.139:7077/rtp/239.253.92.27:6106
+http://120.11.62.207:4000/rtp/239.253.92.27:6106
 #EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/环球奇观.png" group-title="中央娱乐",环球奇观
-http://121.29.90.139:7077/rtp/239.253.92.130:8069
+http://120.11.62.207:4000/rtp/239.253.92.130:8069
 
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
 http://114.95.212.57:4022/udp/239.45.3.196:5140
@@ -273,9 +273,9 @@ http://114.95.212.57:4022/udp/239.45.1.55:5140
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/乐游.png" group-title="其他娱乐",乐游
 http://114.95.212.57:4022/udp/239.45.3.135:5140
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
-http://121.29.90.139:7077/rtp/239.253.93.243:6421
+http://120.11.62.207:4000/rtp/239.253.93.243:6421
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/环球旅游.png" group-title="其他娱乐",环球旅游
-http://121.29.90.139:7077/rtp/239.253.93.220:6398
+http://120.11.62.207:4000/rtp/239.253.93.220:6398
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/都市剧场.png" group-title="其他娱乐",都市剧场
 http://114.95.212.57:4022/udp/239.45.3.136:5140
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/动漫秀场.png" group-title="其他娱乐",动漫秀场
@@ -287,9 +287,9 @@ http://113.24.136.82:8082/udp/239.1.1.85:8085
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/足球频道.png" group-title="其他娱乐",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中华美食.png" group-title="其他娱乐",中华美食
-http://121.29.90.139:7077/rtp/239.253.93.248:6426
+http://120.11.62.207:4000/rtp/239.253.93.248:6426
 #EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中华特产.png" group-title="其他娱乐",中华特产
-http://121.29.90.139:7077/rtp/239.253.93.242:6420
+http://120.11.62.207:4000/rtp/239.253.93.242:6420
 #EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/收藏天下.png" group-title="其他娱乐",收藏天下
 http://59.44.192.22:65000/hls/92/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海纪实人文.png" group-title="其他娱乐",上海纪实人文
@@ -301,7 +301,7 @@ http://lu1.cc/tv/php/gehua.php?id=dgyy
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/百姓健康.png" group-title="其他娱乐",百姓健康
 http://113.24.136.82:8082/udp/239.1.1.105:8105
 #EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/生态环境.png" group-title="其他娱乐",生态环境
-http://121.29.90.139:7077/rtp/239.253.93.245:6423
+http://120.11.62.207:4000/rtp/239.253.93.245:6423
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/求索记录.png" group-title="其他娱乐",求索记录
 http://111.73.20.160:8688/udp/239.252.220.224:5140
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/生活时尚.png" group-title="其他娱乐",生活时尚
