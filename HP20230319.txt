@@ -15,8 +15,8 @@ CCTV9,http://1.202.10.117:8888/udp/225.1.8.9:8112
 CCTV10,http://1.202.10.117:8888/udp/225.1.8.10:8116
 CCTV11,http://1.202.10.117:8888/udp/225.1.8.73:8120
 CCTV12,http://1.202.10.117:8888/udp/225.1.8.12:8124
-CCTV13,https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+CCTV13,http://1.202.10.117:8888/udp/225.1.8.168:8130
+CCTV13,http://1.202.10.117:8888/udp/225.1.8.113:8264
 CCTV14,http://1.202.10.117:8888/udp/225.1.8.14:8132
 CCTV15,http://1.202.10.117:8888/udp/225.1.8.74:8136
 CCTV16,http://123.123.185.11:1314/rtp/239.3.1.184:8001

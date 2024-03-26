@@ -32,9 +32,9 @@ http://1.202.10.117:8888/udp/225.1.8.73:8120
 #EXTINF:-1,CCTV12
 http://1.202.10.117:8888/udp/225.1.8.12:8124
 #EXTINF:-1,CCTV13
-https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+http://1.202.10.117:8888/udp/225.1.8.168:8130
 #EXTINF:-1,CCTV13备用
-https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+http://1.202.10.117:8888/udp/225.1.8.113:8264
 #EXTINF:-1,CCTV14
 http://1.202.10.117:8888/udp/225.1.8.14:8132
 #EXTINF:-1,CCTV15

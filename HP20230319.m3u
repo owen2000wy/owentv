@@ -33,9 +33,9 @@ http://1.202.10.117:8888/udp/225.1.8.73:8120
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV12.png" group-title="央视",CCTV12
 http://1.202.10.117:8888/udp/225.1.8.12:8124
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13.png" group-title="央视",CCTV13
-https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+http://1.202.10.117:8888/udp/225.1.8.168:8130
 #EXTINF:-1,tvg-id="CCTV13备用" tvg-name="CCTV13备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13.png" group-title="央视",CCTV13备用
-https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+http://1.202.10.117:8888/udp/225.1.8.113:8264
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV14.png" group-title="央视",CCTV14
 http://1.202.10.117:8888/udp/225.1.8.14:8132
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV15.png" group-title="央视",CCTV15
