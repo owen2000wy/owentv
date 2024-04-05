@@ -1,4 +1,4 @@
-中国中央电视台,#genre#
+央视,#genre#
 CCTV1,http://1.202.10.117:8888/udp/225.1.8.1:8008
 CCTV1,http://1.202.10.117:8888/udp/225.1.8.101:8080
 CCTV2,http://1.202.10.117:8888/udp/225.1.8.2:8084
@@ -26,13 +26,13 @@ CCTV8K,http://www.lu1.cc/itv/php/ysp.php?id=cctv8k
 中国天气,http://114.95.212.57:4022/udp/239.45.1.47:5140
 中国交通,http://123.123.185.11:1314/rtp/239.3.1.188:8001
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-中国教育电视台,#genre#
+中国教育,#genre#
 中国教育1,http://1.83.163.63:8888/rtp/239.109.205.47:8312
 中国教育2,http://1.83.163.63:8888/rtp/239.109.205.48:8320
 中国教育3,http://1.202.10.117:8888/udp/225.1.8.194:4120
 中国教育4,http://1.83.163.63:8888/rtp/239.109.205.49:8328
 早期教育,http://120.11.62.207:4000/rtp/239.253.92.39:6107
-中央电视台付费频道,#genre#
+央视付费,#genre#
 CCTV第一剧场,http://1.83.163.63:8888/rtp/239.111.205.65:5140
 CCTV风云剧场,http://1.83.163.63:8888/rtp/239.111.205.66:5140
 CCTV怀旧剧场,http://1.83.163.63:8888/rtp/239.111.205.67:5140
@@ -54,7 +54,7 @@ CGTN西班牙语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN阿拉伯语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-北京诸台,#genre#
+北京,#genre#
 北京卫视,http://125.82.241.109:40000/rtp/235.254.198.66:1540
 北京文艺,http://1.202.10.117:8888/udp/225.1.8.22:8002
 北京纪实科教,http://114.95.212.57:4022/udp/239.45.1.14:5140
@@ -64,7 +64,7 @@ CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 北京生活,http://1.202.10.117:8888/udp/225.1.8.108:8002
 北京新闻,http://1.202.10.117:8888/udp/225.1.8.83:8000
 北京国际,http://1.202.10.117:8888/udp/225.1.8.131:8002
-地方卫视,#genre#
+卫视,#genre#
 江苏卫视,http://125.82.241.109:40000/rtp/235.254.198.64:1532
 广西卫视,http://125.82.241.109:40000/rtp/235.254.198.38:1428
 四川卫视,http://125.82.241.109:40000/rtp/235.254.198.175:7980
@@ -110,7 +110,7 @@ CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 凤凰中文,http://125.69.147.119:55555/udp/239.93.0.162:2192
 凤凰资讯,http://125.69.147.119:55555/udp/239.93.0.118:2191
 凤凰香港,http://113.64.145.95:8081/hls/38/index.m3u8
-中央娱乐台,#genre#
+中央娱乐,#genre#
 CHC家庭影院,http://1.83.163.63:8888/rtp/239.112.205.205:5140
 CHC高清电影,http://1.83.163.63:8888/rtp/239.112.205.206:5140
 CHC动作电影,http://1.83.163.63:8888/rtp/239.112.205.207:5140
@@ -122,7 +122,7 @@ CHC动作电影,http://1.83.163.63:8888/rtp/239.112.205.207:5140
 老故事,http://120.11.62.207:4000/rtp/239.253.92.132:8068
 中学生,http://120.11.62.207:4000/rtp/239.253.92.27:6106
 环球奇观,http://120.11.62.207:4000/rtp/239.253.92.130:8069
-其他娱乐台,#genre#
+其他娱乐,#genre#
 欢笑剧场,http://114.95.212.57:4022/udp/239.45.3.196:5140
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbtyhd8m/8000000
 快乐垂钓,http://1.202.10.117:8888/udp/225.1.8.71:8002
@@ -158,7 +158,7 @@ CHC动作电影,http://1.83.163.63:8888/rtp/239.112.205.207:5140
 金色学堂,http://114.95.212.57:4022/udp/239.45.1.118:5140
 京视剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000001320/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 置业频道,http://111.20.35.108:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-国家广播,#genre#
+国广,#genre#
 CRI环球资讯广播,http://sk.cri.cn/905.m3u8
 CRI中文环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI世界华声广播,https://sk.cri.cn/hxfh.m3u8
@@ -169,7 +169,7 @@ CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI-EasyFM,http://sk.cri.cn/915.m3u8
 CRI-NEWSPlus-AM846,http://sk.cri.cn/am846.m3u8
 CRI-NEWSPlus-AM1008,http://sk.cri.cn/am1008.m3u8
-中央广播,#genre#
+央广,#genre#
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
