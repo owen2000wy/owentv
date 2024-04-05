@@ -207,5 +207,3 @@ CCTV13听电视,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 爵士FM,http://lhttp.qingting.fm/live/20207764/64k.mp3
 亚洲音乐台,http://lhttp.qingting.fm/live/5022405/64k.mp3
 听越剧,http://lhttp.qingting.fm/live/20500178/64k.mp3
-新加台测试中,#genre#
-录制的电视,https://jihulab.com/owen2000wy/owentv/-/raw/main/win7-scenic-demoshort-raw.mp4
