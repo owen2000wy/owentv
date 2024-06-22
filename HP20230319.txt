@@ -201,5 +201,5 @@ CCTV13听电视,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 明星FM,http://ls.qingting.fm/live/91019.m3u8
 爵士FM,http://lhttp.qingting.fm/live/20207764/64k.mp3
-亚洲音乐台,http://lhttp.qingting.fm/live/5022405/64k.mp3
+亚洲音乐台,https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8
 听越剧,http://lhttp.qingting.fm/live/20500178/64k.mp3

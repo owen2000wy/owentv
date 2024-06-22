@@ -399,6 +399,6 @@ http://ls.qingting.fm/live/91019.m3u8
 #EXTINF:-1,tvg-id="爵士FM" tvg-name="爵士FM" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/爵士FM.png" group-title="网络" radio="true",爵士FM
 http://lhttp.qingting.fm/live/20207764/64k.mp3
 #EXTINF:-1,tvg-id="亚洲音乐台" tvg-name="亚洲音乐台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/亚洲音乐台.png" group-title="网络" radio="true",亚洲音乐台
-http://lhttp.qingting.fm/live/5022405/64k.mp3
+https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8
 #EXTINF:-1,tvg-id="听越剧" tvg-name="听越剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/听越剧.png" group-title="网络" radio="true",听越剧
 http://lhttp.qingting.fm/live/20500178/64k.mp3
