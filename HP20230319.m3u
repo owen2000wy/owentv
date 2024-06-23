@@ -56,38 +56,38 @@ http://114.253.73.128:8686/rtp/239.3.1.188:8001
 http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
-http://36.46.99.23:8020/rtp/239.109.205.47:8312
+http://36.46.98.59:8008/rtp/239.109.205.47:8312
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育2.png" group-title="中国教育",中国教育2
-http://36.46.99.23:8020/rtp/239.109.205.48:8320
+http://36.46.98.59:8008/rtp/239.109.205.48:8320
 #EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育3.png" group-title="中国教育",中国教育3
 http://1.203.77.170:7788/udp/225.1.8.194:4120
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育4.png" group-title="中国教育",中国教育4
-http://36.46.99.23:8020/rtp/239.109.205.49:8328
+http://36.46.98.59:8008/rtp/239.109.205.49:8328
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/早期教育.png" group-title="中国教育",早期教育
 http://121.29.138.231:4022/rtp/239.253.92.39:6107
 
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
-http://36.46.99.23:8020/rtp/239.111.205.65:5140
+http://36.46.98.59:8008/rtp/239.111.205.65:5140
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
-http://36.46.99.23:8020/rtp/239.111.205.66:5140
+http://36.46.98.59:8008/rtp/239.111.205.66:5140
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
-http://36.46.99.23:8020/rtp/239.111.205.67:5140
+http://36.46.98.59:8008/rtp/239.111.205.67:5140
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
 http://220.175.144.163:9000/udp/239.252.219.93:5140
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
-http://36.46.99.23:8020/rtp/239.111.205.69:5140
+http://36.46.98.59:8008/rtp/239.111.205.69:5140
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
-http://36.46.99.23:8020/rtp/239.111.205.74:5140
+http://36.46.98.59:8008/rtp/239.111.205.74:5140
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
-http://36.46.99.23:8020/rtp/239.111.205.68:5140
+http://36.46.98.59:8008/rtp/239.111.205.68:5140
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
-http://36.46.99.23:8020/rtp/239.111.205.73:5140
+http://36.46.98.59:8008/rtp/239.111.205.73:5140
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
-http://36.46.99.23:8020/rtp/239.111.205.72:5140
+http://36.46.98.59:8008/rtp/239.111.205.72:5140
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视文化精品.png" group-title="央视付费",CCTV央视文化精品
-http://36.46.99.23:8020/rtp/239.111.205.75:5140
+http://36.46.98.59:8008/rtp/239.111.205.75:5140
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
-http://36.46.99.23:8020/rtp/239.111.205.70:5140
+http://36.46.98.59:8008/rtp/239.111.205.70:5140
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
 http://220.175.144.163:9000/udp/239.252.219.97:5140
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
@@ -169,7 +169,7 @@ http://125.80.223.14:9999/rtp/235.254.198.39:1432
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东卫视.png" group-title="卫视",山东卫视
 http://125.80.223.14:9999/rtp/235.254.198.69:1552
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://36.46.99.23:8020/rtp/239.109.205.91:8664
+http://36.46.98.59:8008/rtp/239.109.205.91:8664
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山西卫视.png" group-title="卫视",山西卫视
 http://125.80.223.14:9999/rtp/235.254.198.41:1440
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西卫视.png" group-title="卫视",陕西卫视
@@ -195,7 +195,7 @@ http://125.80.223.14:9999/rtp/235.254.198.34:1412
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东南卫视.png" group-title="卫视",东南卫视
 http://125.80.223.14:9999/rtp/235.254.198.129:7980
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/厦门卫视.png" group-title="卫视",厦门卫视
-http://36.46.99.23:8020/rtp/239.112.205.60:5140
+http://36.46.98.59:8008/rtp/239.112.205.60:5140
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/云南卫视.png" group-title="卫视",云南卫视
 http://125.80.223.14:9999/rtp/235.254.198.25:1376
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/贵州卫视.png" group-title="卫视",贵州卫视
@@ -207,7 +207,7 @@ http://125.80.223.14:9999/rtp/235.254.198.44:1452
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/三沙卫视.png" group-title="卫视",三沙卫视
 https://live3.hnntv.cn/srs/tv/ssws.m3u8
 #EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://36.46.99.23:8020/rtp/239.112.205.27:5140
+http://36.46.98.59:8008/rtp/239.112.205.27:5140
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/澳亚卫视.png" group-title="卫视",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/香港卫视.png" group-title="卫视",香港卫视
@@ -224,11 +224,11 @@ http://125.71.58.184:4022/udp/239.93.0.118:2191
 http://120.84.121.199:808/hls/81/index.m3u8
 
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
-http://36.46.99.23:8020/rtp/239.112.205.205:5140
+http://36.46.98.59:8008/rtp/239.112.205.205:5140
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC高清电影.png" group-title="中央娱乐",CHC高清电影
-http://36.46.99.23:8020/rtp/239.112.205.206:5140
+http://36.46.98.59:8008/rtp/239.112.205.206:5140
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
-http://36.46.99.23:8020/rtp/239.112.205.207:5140
+http://36.46.98.59:8008/rtp/239.112.205.207:5140
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/书画.png" group-title="中央娱乐",书画
 http://xyt.186738613.xyz/lngd.php?id=180&Cf.m3u8
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/国学.png" group-title="中央娱乐",国学
@@ -303,7 +303,7 @@ http://220.175.144.163:9000/udp/239.252.220.224:5140
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/生活时尚.png" group-title="其他娱乐",生活时尚
 http://180.171.56.119:10000/udp/239.45.3.132:5140
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
-http://36.46.99.23:8020/rtp/239.112.205.136:5140
+http://36.46.98.59:8008/rtp/239.112.205.136:5140
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/法治天地.png" group-title="其他娱乐",法治天地
 http://180.171.56.119:10000/udp/239.45.1.46:5140
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金色学堂.png" group-title="其他娱乐",金色学堂
