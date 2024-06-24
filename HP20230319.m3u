@@ -53,7 +53,7 @@ http://180.171.56.119:10000/udp/239.45.1.47:5140
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
 http://114.253.73.128:8686/rtp/239.3.1.188:8001
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
-http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
+http://117.114.153.26:8180/TV00000000000000000007@HHZT
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
 http://36.46.98.59:8008/rtp/239.109.205.47:8312
@@ -230,7 +230,7 @@ http://36.46.98.59:8008/rtp/239.112.205.206:5140
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
 http://36.46.98.59:8008/rtp/239.112.205.207:5140
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/书画.png" group-title="中央娱乐",书画
-http://xyt.186738613.xyz/lngd.php?id=180&Cf.m3u8
+http://211.103.180.178:8233/live_hls/hdmi.m3u8
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/国学.png" group-title="中央娱乐",国学
 http://121.29.138.231:4022/rtp/239.253.92.158:8071
 #EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天元围棋.png" group-title="中央娱乐",天元围棋
@@ -261,7 +261,7 @@ http://180.171.56.119:10000/udp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
 http://180.171.56.119:10000/udp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新视觉.png" group-title="其他娱乐",新视觉
-http://171.208.14.218:9090/live/xsjhd/hls.m3u8
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
 http://125.80.223.14:9999/rtp/235.254.198.49:1472
 #EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/茶频道.png" group-title="其他娱乐",茶频道
