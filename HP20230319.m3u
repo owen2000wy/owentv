@@ -1,404 +1,404 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1
-http://1.203.77.170:7788/udp/225.1.8.1:8008
-#EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1备用
-http://1.203.77.170:7788/udp/225.1.8.101:8080
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV2.png" group-title="央视",CCTV2
-http://1.203.77.170:7788/udp/225.1.8.2:8084
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV3.png" group-title="央视",CCTV3
-http://1.203.77.170:7788/udp/225.1.8.88:8000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4.png" group-title="央视",CCTV4
-http://1.203.77.170:7788/udp/225.1.8.4:8092
-#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-http://121.57.45.75:8888/udp/239.29.1.144:5000
-#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4美洲.png" group-title="央视",CCTV4美洲
-http://124.231.213.130:8866/udp/239.76.253.96:9000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5.png" group-title="央视",CCTV5
-http://1.203.77.170:7788/udp/225.1.8.89:8000
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5+.png" group-title="央视",CCTV5+
-http://1.203.77.170:7788/udp/225.1.8.20:8004
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV6.png" group-title="央视",CCTV6
-http://1.203.77.170:7788/udp/225.1.8.84:8000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV7.png" group-title="央视",CCTV7
-http://1.203.77.170:7788/udp/225.1.8.7:8104
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8.png" group-title="央视",CCTV8
-http://1.203.77.170:7788/udp/225.1.8.85:8000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV9.png" group-title="央视",CCTV9
-http://1.203.77.170:7788/udp/225.1.8.9:8112
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV10.png" group-title="央视",CCTV10
-http://1.203.77.170:7788/udp/225.1.8.10:8116
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV11.png" group-title="央视",CCTV11
-http://1.203.77.170:7788/udp/225.1.8.73:8120
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV12.png" group-title="央视",CCTV12
-http://1.203.77.170:7788/udp/225.1.8.12:8124
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13
-http://1.203.77.170:7788/udp/225.1.8.168:8130
-#EXTINF:-1,tvg-id="CCTV13备用" tvg-name="CCTV13备用" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13备用
-http://1.203.77.170:7788/udp/225.1.8.113:8264
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV14.png" group-title="央视",CCTV14
-http://1.203.77.170:7788/udp/225.1.8.14:8132
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV15.png" group-title="央视",CCTV15
-http://1.203.77.170:7788/udp/225.1.8.74:8136
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV16.png" group-title="央视",CCTV16
-http://121.57.45.75:8888/udp/239.29.1.146:5000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
-http://1.203.77.170:7788/udp/225.1.8.17:8144
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1
+http://1.202.9.77:8888/udp/225.1.8.1:8008
+#EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV1.png" group-title="央视",CCTV1备用
+http://1.202.9.77:8888/udp/225.1.8.101:8080
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV2.png" group-title="央视",CCTV2
+http://1.202.9.77:8888/udp/225.1.8.2:8084
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV3.png" group-title="央视",CCTV3
+http://1.202.9.77:8888/udp/225.1.8.88:8000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4.png" group-title="央视",CCTV4
+http://1.202.9.77:8888/udp/225.1.8.4:8092
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://123.113.236.69:8012/rtp/239.3.1.213:4220
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://123.113.236.69:8012/rtp/239.3.1.214:4220
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5.png" group-title="央视",CCTV5
+http://1.202.9.77:8888/udp/225.1.8.89:8000
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV5+.png" group-title="央视",CCTV5+
+http://1.202.9.77:8888/udp/225.1.8.20:8004
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV6.png" group-title="央视",CCTV6
+http://1.202.9.77:8888/udp/225.1.8.84:8000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV7.png" group-title="央视",CCTV7
+http://1.202.9.77:8888/udp/225.1.8.7:8104
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8.png" group-title="央视",CCTV8
+http://1.202.9.77:8888/udp/225.1.8.85:8000
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV9.png" group-title="央视",CCTV9
+http://1.202.9.77:8888/udp/225.1.8.9:8112
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV10.png" group-title="央视",CCTV10
+http://1.202.9.77:8888/udp/225.1.8.10:8116
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV11.png" group-title="央视",CCTV11
+http://1.202.9.77:8888/udp/225.1.8.73:8120
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV12.png" group-title="央视",CCTV12
+http://1.202.9.77:8888/udp/225.1.8.12:8124
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13
+http://1.202.9.77:8888/udp/225.1.8.168:8130
+#EXTINF:-1,tvg-id="CCTV13备用" tvg-name="CCTV13备用" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13.png" group-title="央视",CCTV13备用
+http://1.202.9.77:8888/udp/225.1.8.113:8264
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV14.png" group-title="央视",CCTV14
+http://1.202.9.77:8888/udp/225.1.8.14:8132
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV15.png" group-title="央视",CCTV15
+http://1.202.9.77:8888/udp/225.1.8.74:8136
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV16.png" group-title="央视",CCTV16
+http://123.113.236.69:8012/rtp/239.3.1.184:8001
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV17.png" group-title="央视",CCTV17
+http://1.202.9.77:8888/udp/225.1.8.17:8144
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV4K.png" group-title="央视",CCTV4K
+http://123.113.236.69:8012/rtp/239.3.1.245:2000
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV8K.png" group-title="央视",CCTV8K
 http://www.lu1.cc/itv/php/ysp.php?id=cctv8k
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
-http://180.171.56.119:10000/udp/239.45.1.47:5140
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
-http://114.253.73.128:8686/rtp/239.3.1.188:8001
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国天气.png" group-title="央视",中国天气
+http://58.35.229.94:9988/udp/239.45.1.47:5140
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国交通.png" group-title="央视",中国交通
+http://123.113.236.69:8012/rtp/239.3.1.188:8001
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重温经典.png" group-title="央视",重温经典
 http://117.114.153.26:8180/TV00000000000000000007@HHZT
 
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育1.png" group-title="中国教育",中国教育1
 http://36.46.98.59:8008/rtp/239.109.205.47:8312
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育2.png" group-title="中国教育",中国教育2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育2.png" group-title="中国教育",中国教育2
 http://36.46.98.59:8008/rtp/239.109.205.48:8320
-#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育3.png" group-title="中国教育",中国教育3
-http://1.203.77.170:7788/udp/225.1.8.194:4120
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育4.png" group-title="中国教育",中国教育4
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育3.png" group-title="中国教育",中国教育3
+http://1.202.9.77:8888/udp/225.1.8.194:4120
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中国教育4.png" group-title="中国教育",中国教育4
 http://36.46.98.59:8008/rtp/239.109.205.49:8328
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/早期教育.png" group-title="中国教育",早期教育
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/早期教育.png" group-title="中国教育",早期教育
 http://121.29.138.231:4022/rtp/239.253.92.39:6107
 
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
 http://36.46.98.59:8008/rtp/239.111.205.65:5140
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
 http://36.46.98.59:8008/rtp/239.111.205.66:5140
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
 http://36.46.98.59:8008/rtp/239.111.205.67:5140
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
 http://220.175.144.163:9000/udp/239.252.219.93:5140
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
 http://36.46.98.59:8008/rtp/239.111.205.69:5140
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
 http://36.46.98.59:8008/rtp/239.111.205.74:5140
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
 http://36.46.98.59:8008/rtp/239.111.205.68:5140
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
 http://36.46.98.59:8008/rtp/239.111.205.73:5140
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
 http://36.46.98.59:8008/rtp/239.111.205.72:5140
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视文化精品.png" group-title="央视付费",CCTV央视文化精品
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视文化精品.png" group-title="央视付费",CCTV央视文化精品
 http://36.46.98.59:8008/rtp/239.111.205.75:5140
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
 http://36.46.98.59:8008/rtp/239.111.205.70:5140
-#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
 http://220.175.144.163:9000/udp/239.252.219.97:5140
-#EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
-http://180.171.56.119:10000/udp/239.45.3.79:5140
-#EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
+#EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV中视购物.png" group-title="央视付费",CCTV中视购物
+http://58.35.229.94:9988/udp/239.45.3.79:5140
+#EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV卫生健康.png" group-title="央视付费",CCTV 卫生健康
 http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 
-#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN英语.png" group-title="CGTN",CGTN英语
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN英语.png" group-title="CGTN",CGTN英语
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN纪录.png" group-title="CGTN",CGTN纪录
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN纪录.png" group-title="CGTN",CGTN纪录
 http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN西班牙语.png" group-title="CGTN",CGTN西班牙语
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN西班牙语.png" group-title="CGTN",CGTN西班牙语
 http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN法语.png" group-title="CGTN",CGTN法语
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN法语.png" group-title="CGTN",CGTN法语
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN阿拉伯语.png" group-title="CGTN",CGTN阿拉伯语
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN阿拉伯语.png" group-title="CGTN",CGTN阿拉伯语
 http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN俄语.png" group-title="CGTN",CGTN俄语
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CGTN俄语.png" group-title="CGTN",CGTN俄语
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1,tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNC中文.png" group-title="新华社",CNC中文
+#EXTINF:-1,tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNC中文.png" group-title="新华社",CNC中文
 
-#EXTINF:-1,tvg-id="CNC英文" tvg-name="CNC英文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNC英文.png" group-title="新华社",CNC英文
+#EXTINF:-1,tvg-id="CNC英文" tvg-name="CNC英文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNC英文.png" group-title="新华社",CNC英文
 
 
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京卫视.png" group-title="北京",北京卫视
 http://125.80.223.14:9999/rtp/235.254.198.66:1540
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺.png" group-title="北京",北京文艺
-http://1.203.77.170:7788/udp/225.1.8.22:8002
-#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京纪实科教.png" group-title="北京",北京纪实科教
-http://180.171.56.119:10000/udp/239.45.1.14:5140
-#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京影视.png" group-title="北京",北京影视
-http://1.203.77.170:7788/udp/225.1.8.82:8000
-#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京财经.png" group-title="北京",北京财经
-http://1.203.77.170:7788/udp/225.1.8.106:8002
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育休闲.png" group-title="北京",北京体育休闲
-http://1.203.77.170:7788/udp/225.1.8.23:8002
-#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京生活.png" group-title="北京",北京生活
-http://1.203.77.170:7788/udp/225.1.8.108:8002
-#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻.png" group-title="北京",北京新闻
-http://1.203.77.170:7788/udp/225.1.8.83:8000
-#EXTINF:-1,tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京国际.png" group-title="北京",北京国际
-http://1.203.77.170:7788/udp/225.1.8.131:8002
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺.png" group-title="北京",北京文艺
+http://1.202.9.77:8888/udp/225.1.8.22:8002
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京纪实科教.png" group-title="北京",北京纪实科教
+http://58.35.229.94:9988/udp/239.45.1.14:5140
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京影视.png" group-title="北京",北京影视
+http://1.202.9.77:8888/udp/225.1.8.82:8000
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京财经.png" group-title="北京",北京财经
+http://1.202.9.77:8888/udp/225.1.8.106:8002
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育休闲.png" group-title="北京",北京体育休闲
+http://1.202.9.77:8888/udp/225.1.8.23:8002
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京生活.png" group-title="北京",北京生活
+http://1.202.9.77:8888/udp/225.1.8.108:8002
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻.png" group-title="北京",北京新闻
+http://1.202.9.77:8888/udp/225.1.8.83:8000
+#EXTINF:-1,tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京国际.png" group-title="北京",北京国际
+http://1.202.9.77:8888/udp/225.1.8.131:8002
 
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://125.80.223.14:9999/rtp/235.254.198.64:1532
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/广西卫视.png" group-title="卫视",广西卫视
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/广西卫视.png" group-title="卫视",广西卫视
 http://125.80.223.14:9999/rtp/235.254.198.38:1428
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/四川卫视.png" group-title="卫视",四川卫视
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/四川卫视.png" group-title="卫视",四川卫视
 http://125.80.223.14:9999/rtp/235.254.198.175:7980
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东方卫视.png" group-title="卫视",东方卫视
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东方卫视.png" group-title="卫视",东方卫视
 http://125.80.223.14:9999/rtp/235.254.198.73:1568
-#EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海教育电视台.png" group-title="卫视",上海教育电视台
+#EXTINF:-1,tvg-id="上海教育电视台" tvg-name="上海教育电视台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海教育电视台.png" group-title="卫视",上海教育电视台
 http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
-#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上视外语.png" group-title="卫视",上视外语
-http://180.171.56.119:10000/udp/239.45.1.127:5140
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上视外语.png" group-title="卫视",上视外语
+http://58.35.229.94:9988/udp/239.45.1.127:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/湖南卫视.png" group-title="卫视",湖南卫视
 http://125.80.223.14:9999/rtp/235.254.198.62:1524
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/浙江卫视.png" group-title="卫视",浙江卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/浙江卫视.png" group-title="卫视",浙江卫视
 http://125.80.223.14:9999/rtp/235.254.198.63:1528
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天津卫视.png" group-title="卫视",天津卫视
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天津卫视.png" group-title="卫视",天津卫视
 http://125.80.223.14:9999/rtp/235.254.198.67:1544
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/辽宁卫视.png" group-title="卫视",辽宁卫视
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://125.80.223.14:9999/rtp/235.254.198.68:1548
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/安徽卫视.png" group-title="卫视",安徽卫视
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/安徽卫视.png" group-title="卫视",安徽卫视
 http://125.80.223.14:9999/rtp/235.254.198.65:1536
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://125.80.223.14:9999/rtp/235.254.198.70:1556
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://125.80.223.14:9999/rtp/235.254.198.42:1444
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/广东卫视.png" group-title="卫视",广东卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/广东卫视.png" group-title="卫视",广东卫视
 http://125.80.223.14:9999/rtp/235.254.196.204:1088
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/深圳卫视.png" group-title="卫视",深圳卫视
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/深圳卫视.png" group-title="卫视",深圳卫视
 http://125.80.223.14:9999/rtp/235.254.198.71:1560
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/湖北卫视.png" group-title="卫视",湖北卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/湖北卫视.png" group-title="卫视",湖北卫视
 http://125.80.223.14:9999/rtp/235.254.198.72:1564
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/吉林卫视.png" group-title="卫视",吉林卫视
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/吉林卫视.png" group-title="卫视",吉林卫视
 http://125.80.223.14:9999/rtp/235.254.198.39:1432
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东卫视.png" group-title="卫视",山东卫视
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东卫视.png" group-title="卫视",山东卫视
 http://125.80.223.14:9999/rtp/235.254.198.69:1552
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东教育卫视.png" group-title="卫视",山东教育卫视
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://36.46.98.59:8008/rtp/239.109.205.91:8664
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山西卫视.png" group-title="卫视",山西卫视
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/山西卫视.png" group-title="卫视",山西卫视
 http://125.80.223.14:9999/rtp/235.254.198.41:1440
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西卫视.png" group-title="卫视",陕西卫视
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西卫视.png" group-title="卫视",陕西卫视
 http://125.80.223.14:9999/rtp/235.254.198.40:1436
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江西卫视.png" group-title="卫视",江西卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/江西卫视.png" group-title="卫视",江西卫视
 http://125.80.223.14:9999/rtp/235.254.198.29:1392
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/河南卫视.png" group-title="卫视",河南卫视
 http://125.80.223.14:9999/rtp/235.254.198.26:1380
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/河北卫视.png" group-title="卫视",河北卫视
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/河北卫视.png" group-title="卫视",河北卫视
 http://125.80.223.14:9999/rtp/235.254.198.184:7980
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/甘肃卫视.png" group-title="卫视",甘肃卫视
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://125.80.223.14:9999/rtp/235.254.198.48:1468
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/宁夏卫视.png" group-title="卫视",宁夏卫视
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://125.80.223.14:9999/rtp/235.254.198.45:1456
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/青海卫视.png" group-title="卫视",青海卫视
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/西藏卫视.png" group-title="卫视",西藏卫视
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/西藏卫视.png" group-title="卫视",西藏卫视
 http://125.80.223.14:9999/rtp/235.254.198.46:1460
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新疆卫视.png" group-title="卫视",新疆卫视
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新疆卫视.png" group-title="卫视",新疆卫视
 http://125.80.223.14:9999/rtp/235.254.198.47:1464
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/重庆卫视.png" group-title="卫视",重庆卫视
 http://125.80.223.14:9999/rtp/235.254.198.34:1412
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东南卫视.png" group-title="卫视",东南卫视
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东南卫视.png" group-title="卫视",东南卫视
 http://125.80.223.14:9999/rtp/235.254.198.129:7980
-#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/厦门卫视.png" group-title="卫视",厦门卫视
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/厦门卫视.png" group-title="卫视",厦门卫视
 http://36.46.98.59:8008/rtp/239.112.205.60:5140
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/云南卫视.png" group-title="卫视",云南卫视
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/云南卫视.png" group-title="卫视",云南卫视
 http://125.80.223.14:9999/rtp/235.254.198.25:1376
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/贵州卫视.png" group-title="卫视",贵州卫视
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/贵州卫视.png" group-title="卫视",贵州卫视
 http://125.80.223.14:9999/rtp/235.254.198.30:1396
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/兵团卫视.png" group-title="卫视",兵团卫视
-http://180.171.56.119:10000/udp/239.45.1.117:5140
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/海南卫视.png" group-title="卫视",海南卫视
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/兵团卫视.png" group-title="卫视",兵团卫视
+http://58.35.229.94:9988/udp/239.45.1.117:5140
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/海南卫视.png" group-title="卫视",海南卫视
 http://125.80.223.14:9999/rtp/235.254.198.44:1452
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/三沙卫视.png" group-title="卫视",三沙卫视
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/三沙卫视.png" group-title="卫视",三沙卫视
 https://live3.hnntv.cn/srs/tv/ssws.m3u8
-#EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+#EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/陕西农林卫视.png" group-title="卫视",陕西农林卫视
 http://36.46.98.59:8008/rtp/239.112.205.27:5140
-#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/澳亚卫视.png" group-title="卫视",澳亚卫视
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/澳亚卫视.png" group-title="卫视",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/香港卫视.png" group-title="卫视",香港卫视
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/香港卫视.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/翡翠台.png" group-title="卫视",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/翡翠台.png" group-title="卫视",翡翠台
 http://61.144.82.98:808/hls/105/index.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/明珠台.png" group-title="卫视",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/明珠台.png" group-title="卫视",明珠台
 http://61.144.82.98:808/hls/106/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰中文.png" group-title="卫视",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰中文.png" group-title="卫视",凤凰中文
 http://125.71.58.184:4022/udp/239.93.0.162:2192
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰资讯.png" group-title="卫视",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰资讯.png" group-title="卫视",凤凰资讯
 http://125.71.58.184:4022/udp/239.93.0.118:2191
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰香港.png" group-title="卫视",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/凤凰香港.png" group-title="卫视",凤凰香港
 http://120.84.121.199:808/hls/81/index.m3u8
 
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC家庭影院.png" group-title="中央娱乐",CHC家庭影院
 http://36.46.98.59:8008/rtp/239.112.205.205:5140
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC高清电影.png" group-title="中央娱乐",CHC高清电影
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC高清电影.png" group-title="中央娱乐",CHC高清电影
 http://36.46.98.59:8008/rtp/239.112.205.206:5140
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CHC动作电影.png" group-title="中央娱乐",CHC动作电影
 http://36.46.98.59:8008/rtp/239.112.205.207:5140
-#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/书画.png" group-title="中央娱乐",书画
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/书画.png" group-title="中央娱乐",书画
 http://211.103.180.178:8233/live_hls/hdmi.m3u8
-#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/国学.png" group-title="中央娱乐",国学
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/国学.png" group-title="中央娱乐",国学
 http://121.29.138.231:4022/rtp/239.253.92.158:8071
-#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天元围棋.png" group-title="中央娱乐",天元围棋
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/天元围棋.png" group-title="中央娱乐",天元围棋
 http://121.29.138.231:4022/rtp/239.253.93.211:6389
-#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/汽摩.png" group-title="中央娱乐",汽摩
+#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/汽摩.png" group-title="中央娱乐",汽摩
 http://125.80.223.14:9999/rtp/235.254.196.221:1156
-#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/发现之旅.png" group-title="中央娱乐",发现之旅
+#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/发现之旅.png" group-title="中央娱乐",发现之旅
 http://223.10.25.194:8085/udp/239.1.1.103:8103
-#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/老故事.png" group-title="中央娱乐",老故事
+#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/老故事.png" group-title="中央娱乐",老故事
 http://121.29.138.231:4022/rtp/239.253.92.132:8068
-#EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中学生.png" group-title="中央娱乐",中学生
+#EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中学生.png" group-title="中央娱乐",中学生
 http://121.29.138.231:4022/rtp/239.253.92.27:6106
-#EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/环球奇观.png" group-title="中央娱乐",环球奇观
+#EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/环球奇观.png" group-title="中央娱乐",环球奇观
 http://121.29.138.231:4022/rtp/239.253.92.130:8069
 
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
-http://180.171.56.119:10000/udp/239.45.3.196:5140
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/劲爆体育.png" group-title="其他娱乐",劲爆体育
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/欢笑剧场.png" group-title="其他娱乐",欢笑剧场
+http://58.35.229.94:9988/udp/239.45.3.196:5140
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/劲爆体育.png" group-title="其他娱乐",劲爆体育
 http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/快乐垂钓.png" group-title="其他娱乐",快乐垂钓
-http://1.203.77.170:7788/udp/225.1.8.71:8002
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金鹰纪实.png" group-title="其他娱乐",金鹰纪实
-http://1.203.77.170:7788/udp/225.1.8.31:8156
-#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/戏曲精选.png" group-title="其他娱乐",戏曲精选
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/快乐垂钓.png" group-title="其他娱乐",快乐垂钓
+http://1.202.9.77:8888/udp/225.1.8.71:8002
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金鹰纪实.png" group-title="其他娱乐",金鹰纪实
+http://1.202.9.77:8888/udp/225.1.8.31:8156
+#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/戏曲精选.png" group-title="其他娱乐",戏曲精选
 http://125.71.58.184:4022/udp/239.93.0.144:5140
-#EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海东方影视.png" group-title="其他娱乐",上海东方影视
-http://180.171.56.119:10000/udp/239.45.3.237:5140
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
-http://180.171.56.119:10000/udp/239.45.3.210:5140
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新视觉.png" group-title="其他娱乐",新视觉
+#EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海东方影视.png" group-title="其他娱乐",上海东方影视
+http://58.35.229.94:9988/udp/239.45.3.237:5140
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海五星体育.png" group-title="其他娱乐",上海五星体育
+http://58.35.229.94:9988/udp/239.45.3.210:5140
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/新视觉.png" group-title="其他娱乐",新视觉
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/卡酷少儿.png" group-title="其他娱乐",卡酷少儿
 http://125.80.223.14:9999/rtp/235.254.198.49:1472
-#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/茶频道.png" group-title="其他娱乐",茶频道
-http://1.203.77.170:7788/udp/225.1.8.72:8002
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/魅力足球.png" group-title="其他娱乐",魅力足球
+#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/茶频道.png" group-title="其他娱乐",茶频道
+http://1.202.9.77:8888/udp/225.1.8.72:8002
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/魅力足球.png" group-title="其他娱乐",魅力足球
 http://223.10.25.194:8085/udp/239.1.1.75:8075
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/炫动卡通.png" group-title="其他娱乐",炫动卡通
-http://180.171.56.119:10000/udp/239.45.1.55:5140
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/乐游.png" group-title="其他娱乐",乐游
-http://180.171.56.119:10000/udp/239.45.3.135:5140
-#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/炫动卡通.png" group-title="其他娱乐",炫动卡通
+http://58.35.229.94:9988/udp/239.45.1.55:5140
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/乐游.png" group-title="其他娱乐",乐游
+http://58.35.229.94:9988/udp/239.45.3.135:5140
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/四海钓鱼.png" group-title="其他娱乐",四海钓鱼
 http://121.29.138.231:4022/rtp/239.253.93.243:6421
-#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/环球旅游.png" group-title="其他娱乐",环球旅游
+#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/环球旅游.png" group-title="其他娱乐",环球旅游
 http://121.29.138.231:4022/rtp/239.253.93.220:6398
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/都市剧场.png" group-title="其他娱乐",都市剧场
-http://180.171.56.119:10000/udp/239.45.3.136:5140
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/动漫秀场.png" group-title="其他娱乐",动漫秀场
-http://180.171.56.119:10000/udp/239.45.3.134:5140
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/游戏风云.png" group-title="其他娱乐",游戏风云
-http://180.171.56.119:10000/udp/239.45.3.131:5140
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东方财经.png" group-title="其他娱乐",东方财经
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/都市剧场.png" group-title="其他娱乐",都市剧场
+http://58.35.229.94:9988/udp/239.45.3.136:5140
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/动漫秀场.png" group-title="其他娱乐",动漫秀场
+http://58.35.229.94:9988/udp/239.45.3.134:5140
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/游戏风云.png" group-title="其他娱乐",游戏风云
+http://58.35.229.94:9988/udp/239.45.3.131:5140
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/东方财经.png" group-title="其他娱乐",东方财经
 http://223.10.25.194:8085/udp/239.1.1.85:8085
-#EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/足球频道.png" group-title="其他娱乐",足球频道
+#EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/足球频道.png" group-title="其他娱乐",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中华美食.png" group-title="其他娱乐",中华美食
+#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中华美食.png" group-title="其他娱乐",中华美食
 http://121.29.138.231:4022/rtp/239.253.93.248:6426
-#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中华特产.png" group-title="其他娱乐",中华特产
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/中华特产.png" group-title="其他娱乐",中华特产
 http://121.29.138.231:4022/rtp/239.253.93.242:6420
-#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/收藏天下.png" group-title="其他娱乐",收藏天下
+#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/收藏天下.png" group-title="其他娱乐",收藏天下
 http://xyt.186738613.xyz/lngd.php?id=155&Cf.m3u8
-#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海纪实人文.png" group-title="其他娱乐",上海纪实人文
-http://180.171.56.119:10000/udp/239.45.3.212:5140
-#EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/百姓健康.png" group-title="其他娱乐",百姓健康
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/上海纪实人文.png" group-title="其他娱乐",上海纪实人文
+http://58.35.229.94:9988/udp/239.45.3.212:5140
+#EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/百姓健康.png" group-title="其他娱乐",百姓健康
 http://223.10.25.194:8085/udp/239.1.1.105:8105
-#EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/生态环境.png" group-title="其他娱乐",生态环境
+#EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/生态环境.png" group-title="其他娱乐",生态环境
 http://121.29.138.231:4022/rtp/239.253.93.245:6423
-#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/求索记录.png" group-title="其他娱乐",求索记录
+#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/求索记录.png" group-title="其他娱乐",求索记录
 http://220.175.144.163:9000/udp/239.252.220.224:5140
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/生活时尚.png" group-title="其他娱乐",生活时尚
-http://180.171.56.119:10000/udp/239.45.3.132:5140
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/生活时尚.png" group-title="其他娱乐",生活时尚
+http://58.35.229.94:9988/udp/239.45.3.132:5140
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金鹰卡通.png" group-title="其他娱乐",金鹰卡通
 http://36.46.98.59:8008/rtp/239.112.205.136:5140
-#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/法治天地.png" group-title="其他娱乐",法治天地
-http://180.171.56.119:10000/udp/239.45.1.46:5140
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金色学堂.png" group-title="其他娱乐",金色学堂
-http://180.171.56.119:10000/udp/239.45.1.118:5140
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/法治天地.png" group-title="其他娱乐",法治天地
+http://58.35.229.94:9988/udp/239.45.1.46:5140
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/金色学堂.png" group-title="其他娱乐",金色学堂
+http://58.35.229.94:9988/udp/239.45.1.118:5140
 
-#EXTINF:-1,tvg-id="CRI环球资讯广播" tvg-name="CRI环球资讯广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI环球资讯广播.png" group-title="国广" radio="true",CRI环球资讯广播
+#EXTINF:-1,tvg-id="CRI环球资讯广播" tvg-name="CRI环球资讯广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI环球资讯广播.png" group-title="国广" radio="true",CRI环球资讯广播
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1,tvg-id="CRI中文环球广播" tvg-name="CRI中文环球广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI中文环球广播.png" group-title="国广" radio="true",CRI中文环球广播
+#EXTINF:-1,tvg-id="CRI中文环球广播" tvg-name="CRI中文环球广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI中文环球广播.png" group-title="国广" radio="true",CRI中文环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1,tvg-id="CRI世界华声广播" tvg-name="CRI世界华声广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI世界华声广播.png" group-title="国广" radio="true",CRI世界华声广播
+#EXTINF:-1,tvg-id="CRI世界华声广播" tvg-name="CRI世界华声广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI世界华声广播.png" group-title="国广" radio="true",CRI世界华声广播
 https://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1,tvg-id="CRI海峡飞虹" tvg-name="CRI海峡飞虹" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI海峡飞虹.png" group-title="国广" radio="true",CRI海峡飞虹
+#EXTINF:-1,tvg-id="CRI海峡飞虹" tvg-name="CRI海峡飞虹" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI海峡飞虹.png" group-title="国广" radio="true",CRI海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1,tvg-id="CRI南海之声" tvg-name="CRI南海之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI南海之声.png" group-title="国广" radio="true",CRI南海之声
+#EXTINF:-1,tvg-id="CRI南海之声" tvg-name="CRI南海之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI南海之声.png" group-title="国广" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1,tvg-id="CRI-HitFM" tvg-name="CRI-HitFM" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-HitFM.png" group-title="国广" radio="true",CRI-HitFM
+#EXTINF:-1,tvg-id="CRI-HitFM" tvg-name="CRI-HitFM" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-HitFM.png" group-title="国广" radio="true",CRI-HitFM
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1,tvg-id="CRI轻松调频" tvg-name="CRI轻松调频" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI轻松调频.png" group-title="国广" radio="true",CRI轻松调频
+#EXTINF:-1,tvg-id="CRI轻松调频" tvg-name="CRI轻松调频" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI轻松调频.png" group-title="国广" radio="true",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,tvg-id="CRI-EasyFM" tvg-name="CRI-EasyFM" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-EasyFM.png" group-title="国广" radio="true",CRI-EasyFM
+#EXTINF:-1,tvg-id="CRI-EasyFM" tvg-name="CRI-EasyFM" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-EasyFM.png" group-title="国广" radio="true",CRI-EasyFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM846" tvg-name="CRI-NEWSPlus-AM846" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-NEWSPlus-AM846.png" group-title="国广" radio="true",CRI-NEWSPlus-AM846
+#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM846" tvg-name="CRI-NEWSPlus-AM846" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-NEWSPlus-AM846.png" group-title="国广" radio="true",CRI-NEWSPlus-AM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM1008" tvg-name="CRI-NEWSPlus-AM1008" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-NEWSPlus-AM1008.png" group-title="国广" radio="true",CRI-NEWSPlus-AM1008
+#EXTINF:-1,tvg-id="CRI-NEWSPlus-AM1008" tvg-name="CRI-NEWSPlus-AM1008" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CRI-NEWSPlus-AM1008.png" group-title="国广" radio="true",CRI-NEWSPlus-AM1008
 http://sk.cri.cn/am1008.m3u8
 
-#EXTINF:-1,tvg-id="CNR中国之声" tvg-name="CNR中国之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国之声.png" group-title="央广" radio="true",CNR中国之声
+#EXTINF:-1,tvg-id="CNR中国之声" tvg-name="CNR中国之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国之声.png" group-title="央广" radio="true",CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR经济之声" tvg-name="CNR经济之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR经济之声.png" group-title="央广" radio="true",CNR经济之声
+#EXTINF:-1,tvg-id="CNR经济之声" tvg-name="CNR经济之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR经济之声.png" group-title="央广" radio="true",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR音乐之声" tvg-name="CNR音乐之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR音乐之声.png" group-title="央广" radio="true",CNR音乐之声
+#EXTINF:-1,tvg-id="CNR音乐之声" tvg-name="CNR音乐之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR音乐之声.png" group-title="央广" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR经典音乐广播" tvg-name="CNR经典音乐广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR经典音乐广播.png" group-title="央广" radio="true",CNR经典音乐广播
+#EXTINF:-1,tvg-id="CNR经典音乐广播" tvg-name="CNR经典音乐广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR经典音乐广播.png" group-title="央广" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1,tvg-id="CNR台海之声" tvg-name="CNR台海之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR台海之声.png" group-title="央广" radio="true",CNR台海之声
+#EXTINF:-1,tvg-id="CNR台海之声" tvg-name="CNR台海之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR台海之声.png" group-title="央广" radio="true",CNR台海之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR神州之声" tvg-name="CNR神州之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR神州之声.png" group-title="央广" radio="true",CNR神州之声
+#EXTINF:-1,tvg-id="CNR神州之声" tvg-name="CNR神州之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR神州之声.png" group-title="央广" radio="true",CNR神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR大湾区之声" tvg-name="CNR大湾区之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR大湾区之声.png" group-title="央广" radio="true",CNR大湾区之声
+#EXTINF:-1,tvg-id="CNR大湾区之声" tvg-name="CNR大湾区之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR大湾区之声.png" group-title="央广" radio="true",CNR大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR香港之声" tvg-name="CNR香港之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR香港之声.png" group-title="央广" radio="true",CNR香港之声
+#EXTINF:-1,tvg-id="CNR香港之声" tvg-name="CNR香港之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR香港之声.png" group-title="央广" radio="true",CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR民族之声" tvg-name="CNR民族之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR民族之声.png" group-title="央广" radio="true",CNR民族之声
+#EXTINF:-1,tvg-id="CNR民族之声" tvg-name="CNR民族之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR民族之声.png" group-title="央广" radio="true",CNR民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR文艺之声" tvg-name="CNR文艺之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR文艺之声.png" group-title="央广" radio="true",CNR文艺之声
+#EXTINF:-1,tvg-id="CNR文艺之声" tvg-name="CNR文艺之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR文艺之声.png" group-title="央广" radio="true",CNR文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR老年之声" tvg-name="CNR老年之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR老年之声.png" group-title="央广" radio="true",CNR老年之声
+#EXTINF:-1,tvg-id="CNR老年之声" tvg-name="CNR老年之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR老年之声.png" group-title="央广" radio="true",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1,tvg-id="CNR中国乡村之声" tvg-name="CNR中国乡村之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国乡村之声.png" group-title="央广" radio="true",CNR中国乡村之声
+#EXTINF:-1,tvg-id="CNR中国乡村之声" tvg-name="CNR中国乡村之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国乡村之声.png" group-title="央广" radio="true",CNR中国乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1,tvg-id="CNR哈语广播" tvg-name="CNR哈语广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR哈语广播.png" group-title="央广" radio="true",CNR哈语广播
+#EXTINF:-1,tvg-id="CNR哈语广播" tvg-name="CNR哈语广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR哈语广播.png" group-title="央广" radio="true",CNR哈语广播
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1,tvg-id="CNR藏语广播" tvg-name="CNR藏语广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR藏语广播.png" group-title="央广" radio="true",CNR藏语广播
+#EXTINF:-1,tvg-id="CNR藏语广播" tvg-name="CNR藏语广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR藏语广播.png" group-title="央广" radio="true",CNR藏语广播
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1,tvg-id="CNR维语广播" tvg-name="CNR维语广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR维语广播.png" group-title="央广" radio="true",CNR维语广播
+#EXTINF:-1,tvg-id="CNR维语广播" tvg-name="CNR维语广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR维语广播.png" group-title="央广" radio="true",CNR维语广播
 http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1,tvg-id="CNR阅读之声" tvg-name="CNR阅读之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR阅读之声.png" group-title="央广" radio="true",CNR阅读之声
+#EXTINF:-1,tvg-id="CNR阅读之声" tvg-name="CNR阅读之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR阅读之声.png" group-title="央广" radio="true",CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1,tvg-id="CNR中国交通广播" tvg-name="CNR中国交通广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国交通广播.png" group-title="央广" radio="true",CNR中国交通广播
+#EXTINF:-1,tvg-id="CNR中国交通广播" tvg-name="CNR中国交通广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR中国交通广播.png" group-title="央广" radio="true",CNR中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1,tvg-id="CNR长江水上安全信息台" tvg-name="CNR长江水上安全信息台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR长江水上安全信息台.png" group-title="央广" radio="true",CNR长江水上安全信息台
+#EXTINF:-1,tvg-id="CNR长江水上安全信息台" tvg-name="CNR长江水上安全信息台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CNR长江水上安全信息台.png" group-title="央广" radio="true",CNR长江水上安全信息台
 http://ls.qingting.fm/live/2694923.m3u8
-#EXTINF:-1,tvg-id="CCTV13听电视" tvg-name="CCTV13听电视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13听电视.png" group-title="央广" radio="true",CCTV13听电视
+#EXTINF:-1,tvg-id="CCTV13听电视" tvg-name="CCTV13听电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/CCTV13听电视.png" group-title="央广" radio="true",CCTV13听电视
 http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 
-#EXTINF:-1,tvg-id="北京新闻广播" tvg-name="北京新闻广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻广播.png" group-title="北京广播" radio="true",北京新闻广播
+#EXTINF:-1,tvg-id="北京新闻广播" tvg-name="北京新闻广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京新闻广播.png" group-title="北京广播" radio="true",北京新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1,tvg-id="北京城市广播" tvg-name="北京城市广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京城市广播.png" group-title="北京广播" radio="true",北京城市广播
+#EXTINF:-1,tvg-id="北京城市广播" tvg-name="北京城市广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京城市广播.png" group-title="北京广播" radio="true",北京城市广播
 https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
-#EXTINF:-1,tvg-id="北京体育广播" tvg-name="北京体育广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育广播.png" group-title="北京广播" radio="true",北京体育广播
+#EXTINF:-1,tvg-id="北京体育广播" tvg-name="北京体育广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京体育广播.png" group-title="北京广播" radio="true",北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-#EXTINF:-1,tvg-id="北京音乐广播" tvg-name="北京音乐广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京音乐广播.png" group-title="北京广播" radio="true",北京音乐广播
+#EXTINF:-1,tvg-id="北京音乐广播" tvg-name="北京音乐广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京音乐广播.png" group-title="北京广播" radio="true",北京音乐广播
 https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
-#EXTINF:-1,tvg-id="北京交通广播" tvg-name="北京交通广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京交通广播.png" group-title="北京广播" radio="true",北京交通广播
+#EXTINF:-1,tvg-id="北京交通广播" tvg-name="北京交通广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京交通广播.png" group-title="北京广播" radio="true",北京交通广播
 https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-#EXTINF:-1,tvg-id="北京文艺广播" tvg-name="北京文艺广播" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺广播.png" group-title="北京广播" radio="true",北京文艺广播
+#EXTINF:-1,tvg-id="北京文艺广播" tvg-name="北京文艺广播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京文艺广播.png" group-title="北京广播" radio="true",北京文艺广播
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
-#EXTINF:-1,tvg-id="京津冀之声" tvg-name="京津冀之声" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/京津冀之声.png" group-title="北京广播" radio="true",京津冀之声
+#EXTINF:-1,tvg-id="京津冀之声" tvg-name="京津冀之声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/京津冀之声.png" group-title="北京广播" radio="true",京津冀之声
 https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
-#EXTINF:-1,tvg-id="北京房山经典音乐" tvg-name="北京房山经典音乐" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京房山经典音乐.png" group-title="北京广播" radio="true",北京房山经典音乐
+#EXTINF:-1,tvg-id="北京房山经典音乐" tvg-name="北京房山经典音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京房山经典音乐.png" group-title="北京广播" radio="true",北京房山经典音乐
 http://ls.qingting.fm/live/68746.m3u8
-#EXTINF:-1,tvg-id="北京好音乐" tvg-name="北京好音乐" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京好音乐.png" group-title="北京广播" radio="true",北京好音乐
+#EXTINF:-1,tvg-id="北京好音乐" tvg-name="北京好音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京好音乐.png" group-title="北京广播" radio="true",北京好音乐
 http://live.xmcdn.com/live/964/64.m3u8
-#EXTINF:-1,tvg-id="北京阳光调频" tvg-name="北京阳光调频" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京阳光调频.png" group-title="北京广播" radio="true",北京阳光调频
+#EXTINF:-1,tvg-id="北京阳光调频" tvg-name="北京阳光调频" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/北京阳光调频.png" group-title="北京广播" radio="true",北京阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
 
-#EXTINF:-1,tvg-id="萤火虫网络电台" tvg-name="萤火虫网络电台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/萤火虫网络电台.png" group-title="网络" radio="true",萤火虫网络电台
+#EXTINF:-1,tvg-id="萤火虫网络电台" tvg-name="萤火虫网络电台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/萤火虫网络电台.png" group-title="网络" radio="true",萤火虫网络电台
 https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
-#EXTINF:-1,tvg-id="500首华语经典" tvg-name="500首华语经典" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/500首华语经典.png" group-title="网络" radio="true",500首华语经典
+#EXTINF:-1,tvg-id="500首华语经典" tvg-name="500首华语经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/500首华语经典.png" group-title="网络" radio="true",500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-#EXTINF:-1,tvg-id="明星FM" tvg-name="明星FM" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/明星FM.png" group-title="网络" radio="true",明星FM
+#EXTINF:-1,tvg-id="明星FM" tvg-name="明星FM" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/明星FM.png" group-title="网络" radio="true",明星FM
 http://ls.qingting.fm/live/91019.m3u8
-#EXTINF:-1,tvg-id="爵士FM" tvg-name="爵士FM" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/爵士FM.png" group-title="网络" radio="true",爵士FM
+#EXTINF:-1,tvg-id="爵士FM" tvg-name="爵士FM" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/爵士FM.png" group-title="网络" radio="true",爵士FM
 http://lhttp.qingting.fm/live/20207764/64k.mp3
-#EXTINF:-1,tvg-id="亚洲音乐台" tvg-name="亚洲音乐台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/亚洲音乐台.png" group-title="网络" radio="true",亚洲音乐台
+#EXTINF:-1,tvg-id="亚洲音乐台" tvg-name="亚洲音乐台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/亚洲音乐台.png" group-title="网络" radio="true",亚洲音乐台
 https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8
-#EXTINF:-1,tvg-id="听越剧" tvg-name="听越剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/taibiao/main/听越剧.png" group-title="网络" radio="true",听越剧
+#EXTINF:-1,tvg-id="听越剧" tvg-name="听越剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/taibiao/main/听越剧.png" group-title="网络" radio="true",听越剧
 http://lhttp.qingting.fm/live/20500178/64k.mp3
